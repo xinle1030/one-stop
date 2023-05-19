@@ -1,0 +1,450 @@
+,Unnamed: 0,name_c,incorporated_date_c,total_funding_c,last_valuation_c,last_round_size_c,revenue_c,date_of_last_round,fy_end,revenue_growth,EBIT_c,employee_growth_6,employee_growth_12,num_founders,num_funding_rounds,num_shareholders,min_share,median_share,max_share,category,industry
+0,1247,MTM2NjQxMEg=,2020,1000000,4000000,600000,60000,21-Jan,21-Apr,-0.01,-600000,0.06,0.21,2,1,7,1.29,10.35,51.75,"E-Commerce,Automobile,Automotive,E-Commerce Platforms",Internet & Direct Marketing Retail
+1,1248,MTE3NDc0Nlg=,2016,6000,-1,-1,3000,-1,16-Dec,-0.01,-40000,-0.01,-0.01,1,0,3,0.77,3.08,96.15,"E-Commerce,Retail,Women,Fashion",Internet & Direct Marketing Retail
+2,1249,MTM3NTM5OFg=,2020,1,-1,-1,-1,-1,21-Jul,-0.01,-5000,-0.17,4,2,0,2,50,50,50,"Marketplace,E-Commerce,Internet",Internet & Direct Marketing Retail
+3,1250,MTA1ODQ2NlU=,2013,100000,-1,-1,600000,-1,21-Aug,0.47,800,0.13,-0.18,-1,0,3,2.5,48.75,48.75,"E-Commerce,Retail,Fashion",Internet & Direct Marketing Retail
+4,1251,MTAyMDU1MU0=,2012,3000000,1000000,200000,3000000,15-Apr,21-Dec,0.86,-900000,-0.27,-0.25,3,1,4,11.2,20.05,48.71,E-Commerce,Internet & Direct Marketing Retail
+5,1252,ODc1MjE3Vg==,2009,600000,600000,300000,70000,12-Feb,14-Dec,-0.01,-100000,-0.01,-0.01,2,1,4,10,15,60,"E-Commerce,Lifestyle,Beauty,Fashion,Cosmetics",Internet & Direct Marketing Retail
+6,1253,MTM3MTk2NVg=,2020,200000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,3,16.67,33.33,50,"E-Commerce,Retail",Internet & Direct Marketing Retail
+7,1254,MTM3NzU5OVQ=,2020,100000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,2,50,50,50,"Retail,Online Portals",Internet & Direct Marketing Retail
+8,1255,MTIzMDE3N00=,2017,400000,1000000,200000,200000,19-Dec,18-Dec,-0.01,-200000,-0.01,-0.01,1,1,5,0.87,13,48.72,"E-Commerce,Books",Internet & Direct Marketing Retail
+9,1256,NjIyODU4VA==,2003,300000,500000,100000,8000,17-Jul,21-Dec,0.97,-70000,-0.01,-0.01,1,1,6,7.5,15,27,"Fintech,Online Portals",Internet & Direct Marketing Retail
+10,1257,MTA1NDU0ME0=,2013,60000,-1,-1,700,-1,21-Aug,-0.97,-2000,-0.01,-0.01,-1,0,2,10,50,90,"E-Commerce,Travel,Internet",Internet & Direct Marketing Retail
+11,1258,MTE2NDc5NE0=,2015,30000,-1,-1,10000,-1,16-Dec,-0.01,-20000,-0.01,-0.01,1,0,3,32.99,33.51,33.51,E-Commerce,Internet & Direct Marketing Retail
+12,1259,NTE0NDA5RA==,2000,30000,-1,-1,600000,-1,18-Jun,-0.01,7000,-0.01,-0.01,1,0,2,20,50,80,"E-Commerce,Retail,Skincare",Internet & Direct Marketing Retail
+13,1260,MTI3MjgzNE0=,2018,2000,-1,-1,1000000,-1,19-Jun,-0.01,10000,-0.01,-0.01,-1,0,2,40,50,60,"E-Commerce,Retail,Consumer Goods,Manufacturing",Internet & Direct Marketing Retail
+14,1261,MTE4NTc1NEQ=,2016,3000000,-1,-1,400000000,-1,21-Jun,-0.01,20000000,0.07,0.07,1,0,3,0,29.03,70.97,"E-Commerce,Grocery,Retail",Internet & Direct Marketing Retail
+15,1262,OTAzNjc1Sw==,2010,1,-1,-1,1000000,-1,20-Mar,-0.01,100000,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Skincare,Cosmetics",Internet & Direct Marketing Retail
+16,1263,MTIyNjgxM1Q=,2017,1,-1,-1,200000,-1,21-Jul,-0.01,7000,-0.01,-0.01,1,0,3,9,20,71,"E-Commerce,Gardening",Internet & Direct Marketing Retail
+17,1264,MTQxMjMyOEE=,2021,1,-1,-1,5000,-1,21-Dec,-0.01,-20000,-0.01,-0.01,-1,0,4,15,27.5,30,"Marketplace,E-Commerce,Automotive",Internet & Direct Marketing Retail
+18,1265,MTIzMTU5MVQ=,2017,20000,-1,-1,10000,-1,19-Jul,-0.01,-8000,-0.01,-0.01,1,0,3,30,30,40,"E-Commerce,Printing",Internet & Direct Marketing Retail
+19,1266,MTE4OTM3M0g=,2016,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,3,5,43.25,51.75,"Delivery,Internet,Mobile",Internet & Direct Marketing Retail
+20,1267,MTEwMjgzMFA=,2014,30000,-1,-1,3000000,-1,18-Jun,-0.01,100000,-0.01,-0.01,1,0,2,10,50,90,"E-Commerce,Retail,Photography",Internet & Direct Marketing Retail
+21,1268,MTMzMjM4N1g=,2019,5000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,0.17,1,0,2,10,50,90,"E-Commerce,Wellness,Beauty",Internet & Direct Marketing Retail
+22,1269,MTI0MTQ5NVY=,2017,700000,700000,400000,100000,21-Apr,21-Dec,1.35,-6000,-0.01,-0.01,-1,1,2,45,50,55,"E-Commerce,Financial Services,Information Technology,Internet",Internet & Direct Marketing Retail
+23,1270,MTA5OTc3OUE=,2014,100000,-1,-1,100000,-1,20-Jun,-0.01,60000,-0.01,-0.01,-1,0,3,5.26,42.63,52.11,"E-Commerce,Mobile Apps,Apps,Ios",Internet & Direct Marketing Retail
+24,1271,MTMwMTU5MEg=,2018,2000,-1,-1,900,-1,19-Dec,-0.01,-2000,-0.01,-0.01,1,0,4,18,19,44,"Marketplace,E-Commerce,Internet,Gift",Internet & Direct Marketing Retail
+25,1272,MTI3NTY4MUQ=,2018,1,-1,-1,20000,-1,19-Dec,-0.01,-20000,-0.01,-0.01,1,0,1,100,100,100,"Mobile Apps,Food Delivery",Internet & Direct Marketing Retail
+26,1273,MTExNjY5MFU=,2014,80000,-1,-1,-1,-1,19-Dec,-0.01,-10000,-0.01,-0.01,-1,0,6,7,15,28,Ride Sharing,Internet & Direct Marketing Retail
+27,1274,MTExMjE2OFU=,2014,2000000,6000000,1000000,20000000,19-Oct,21-Dec,0.76,2000000,-0.13,-0.18,2,2,7,1.57,7.81,49.56,"Food & Beverage (F&B),E-Commerce,Grocery,Retail,Consumer Goods,Fashion,Personal Health",Internet & Direct Marketing Retail
+28,1275,MTE5NjI2M1c=,2016,50000,-1,-1,3000,-1,20-Dec,-0.7,-1,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,Online Portals,Catering",Internet & Direct Marketing Retail
+29,1276,MTQxNTUwN00=,2021,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,2,15,50,85,"Food Delivery,Online Portals",Internet & Direct Marketing Retail
+30,1277,MTM4MDk0MVQ=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,E-Commerce,Internet & Direct Marketing Retail
+31,1278,MTQyNjg3M1Y=,2023,100000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,4,0.07,5.06,89.82,"E-Commerce,Social Commerce",Internet & Direct Marketing Retail
+32,1279,MTE2MDI2Mkg=,2015,100000,-1,-1,400000,-1,19-Dec,-0.01,10000,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Retail,Beauty,Fashion",Internet & Direct Marketing Retail
+33,1280,ODU5NTU1UA==,2009,30000,-1,-1,-1,-1,19-Sep,-0.01,-600,-0.01,-0.01,1,0,3,16,33,51,"E-Commerce,AgriTech,Delivery,Organic",Internet & Direct Marketing Retail
+34,1281,MTEwNTY4N1U=,2014,60000,-1,-1,300000,-1,18-Dec,-0.01,700,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Food Delivery",Internet & Direct Marketing Retail
+35,1282,MTI2NDEyOUQ=,2018,100000,-1,-1,3000000,-1,19-Dec,1.56,200000,-0.01,-0.01,1,0,2,1.2,50,98.8,"E-Commerce,Children",Internet & Direct Marketing Retail
+36,1283,MTA0ODY1N0g=,2013,1,-1,-1,700000,-1,21-Jun,0.02,80000,-0.01,-0.01,3,0,3,15,30,55,"E-Commerce,Consumer Goods",Internet & Direct Marketing Retail
+37,1284,MTE5Mzc0MkQ=,2016,20000,-1,-1,9000,-1,21-Jun,0.93,-20000,-0.01,-0.01,1,0,3,20,20,60,"E-Commerce,Logistics",Internet & Direct Marketing Retail
+38,1285,RjExNjMwNTBI,2015,1,-1,-1,60000,-1,19-Dec,0.49,-100000,0.05,0.28,2,0,1,100,100,100,"E-Commerce,Logistics,Supply Chain,Retail,Internet",Internet & Direct Marketing Retail
+39,1286,MTEwMzEwMVU=,2014,200000,-1,-1,500000,-1,15-Sep,-0.01,3000,-0.1,0.04,2,0,2,50,50,50,"E-Commerce,Retail,Design",Internet & Direct Marketing Retail
+40,1287,MTM2ODQ2NEg=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Retail,Shopping",Internet & Direct Marketing Retail
+41,1288,MTE1MDMyNUQ=,2015,50000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,4,15,25,35,"Marketplace,E-Commerce,Online Portals,Gift",Internet & Direct Marketing Retail
+42,1289,MTM2Njg5M1Q=,2020,70000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,3,20,30,50,"Marketplace,Mobile Apps,Food Delivery,Online Portals",Internet & Direct Marketing Retail
+43,1290,MTMzNTU1NFY=,2019,400000,-1,-1,5000,-1,20-Dec,-0.01,-400000,-0.01,-0.01,2,0,1,100,100,100,"E-Commerce,Rewards",Internet & Direct Marketing Retail
+44,1291,MTIyNDA4NEE=,2017,70000,-1,-1,90000,-1,21-Mar,1.49,-30000,-0.01,-0.01,1,0,2,30,50,70,"E-Commerce,Grocery,Organic",Internet & Direct Marketing Retail
+45,1292,MTIyMDc1N1U=,2017,20000,-1,-1,200000,-1,20-Dec,2.84,-5000,-0.01,-0.01,-1,0,2,10,50,90,"Marketplace,E-Commerce,Automotive",Internet & Direct Marketing Retail
+46,1293,MTMwNzc2OFY=,2018,30000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,0.27,1,0,1,100,100,100,"E-Commerce,Retail",Internet & Direct Marketing Retail
+47,1294,MTE5MjQ0M1U=,2016,1,-1,-1,100000,-1,18-Dec,-0.01,5000,-0.01,-0.01,-1,0,4,25,25,25,"E-Commerce,Children",Internet & Direct Marketing Retail
+48,1295,MTM2NjI4MFQ=,2020,20000,-1,-1,5000000,-1,21-Dec,-0.01,300000,-0.01,-0.01,1,0,3,30,30,40,"E-Commerce,Internet",Internet & Direct Marketing Retail
+49,1296,MTMzMjIyM1A=,2019,1000000,6000000,1000000,2000,22-Sep,22-Mar,5.28,-300000,0.5,0.13,1,1,3,5.55,16.43,78.02,"E-Commerce,Retail,Shopping",Internet & Direct Marketing Retail
+50,1297,MTMxMTA1MU0=,2019,50000,-1,-1,60000,-1,20-Jun,-0.01,-40000,-0.33,-0.25,1,0,2,0.1,50,99.9,"Ride Sharing,E-Scooter",Internet & Direct Marketing Retail
+51,1298,ODg5OTU1Sw==,2010,2000000,6000000,1000000,5000000,19-Dec,21-Dec,0.09,20000,-0.03,0.04,3,1,3,0.4,19.23,80.37,"E-Commerce,Lifestyle,Shipping",Internet & Direct Marketing Retail
+52,1299,MTMxNjQ1M1U=,2019,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,E-Commerce,Mobile Apps,Hospitality,Travel,Tourism,Apps",Internet & Direct Marketing Retail
+53,1300,MTM1NzA3MFY=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,3,5,5,90,"Rental,Web Apps",Internet & Direct Marketing Retail
+54,1301,MTI2NTA1MlU=,2018,1,-1,-1,3000,-1,19-May,-0.01,-20000,-0.01,0.25,2,0,3,30,30,40,"E-Commerce,Consumer Goods",Internet & Direct Marketing Retail
+55,1302,MTE0MzM0MEs=,2015,1,-1,-1,10000,-1,18-Aug,-0.01,-40000,-0.01,-0.01,-1,0,2,50,50,50,E-Commerce,Internet & Direct Marketing Retail
+56,1303,MTA3OTgyOFQ=,2014,2000000,2000000,1000000,2000000,20-Jan,18-Dec,-0.23,10000,-0.01,-0.01,1,1,6,0.35,2.135,90.27,"Ride Sharing,Car Rental",Internet & Direct Marketing Retail
+57,1304,MTI4MDg0OVA=,2018,200000,-1,-1,10000,-1,20-Sep,2.92,-100000,-0.01,-0.01,1,0,5,1.37,2.53,74.39,"Food & Beverage (F&B),E-Commerce,Food Processing",Internet & Direct Marketing Retail
+58,1305,MTM4MDk2MFc=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,2,49,50,51,"E-Commerce,Manufacturing,Health",Internet & Direct Marketing Retail
+59,1306,MjAxMDE0OTY5TQ==,2010,70000,-1,-1,3000000,-1,21-Dec,0.53,-200000,0.06,0.14,1,0,1,100,100,100,E-Commerce,Internet & Direct Marketing Retail
+60,1307,MTMyOTEyMks=,2019,2000,-1,-1,30000,-1,20-Sep,-0.01,-7000,-0.01,-0.01,2,0,3,5,15,80,"Marketplace,E-Commerce,Grocery,Retail",Internet & Direct Marketing Retail
+61,1308,MTMyMDUyOVg=,2019,1,-1,-1,-1,-1,20-Jul,-0.01,-1,-0.01,-0.01,1,0,2,33.33,50,66.67,E-Commerce,Internet & Direct Marketing Retail
+62,1309,MTE1MDEzM0E=,2015,100000,-1,-1,3000000,-1,21-Dec,9.13,-1,-0.01,-0.01,3,0,2,12,50,88,"E-Commerce,Grocery,Retail",Internet & Direct Marketing Retail
+63,1310,MTIzODY5N00=,2017,1,-1,-1,-1,-1,19-Dec,-0.01,-400,-0.01,-0.01,2,0,1,100,100,100,"E-Commerce,Retail,Organic",Internet & Direct Marketing Retail
+64,1311,MTM5NTY3MUs=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,2,47.5,50,52.5,"E-Commerce,Fashion,Cosmetics,Fast-moving Consumer Goods (FMCG),Wholesale",Internet & Direct Marketing Retail
+65,1312,MTE2NTc2MEs=,2015,1,-1,-1,1000,-1,17-Feb,-0.01,-200,-0.01,-0.01,1,0,2,49,50,51,"Marketplace,E-Commerce,Fashion",Internet & Direct Marketing Retail
+66,1313,MTM4MDI0NFQ=,2020,2000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,3,0,3,10,39,51,"E-Commerce,Technology,Internet",Internet & Direct Marketing Retail
+67,1314,Rjc0NjAxMUE=,2006,100000,-1,-1,1000000,-1,20-Dec,-0.48,-400000,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Information Technology,Travel",Internet & Direct Marketing Retail
+68,1315,MTEwMDY5NFg=,2014,200000,-1,-1,800000,-1,20-Jul,0.75,50000,1,1,-1,0,25,0,0.09,82.29,"E-Commerce,Jewellery",Internet & Direct Marketing Retail
+69,1316,MTA3MDE4NVA=,2013,400000,-1,-1,-1,-1,19-Dec,-1,-9000,-0.01,-0.01,1,0,9,1.42,6.14,49.64,"E-Commerce,Retail",Internet & Direct Marketing Retail
+70,1317,MTIzOTk0NEE=,2017,20000,-1,-1,90000,-1,21-Oct,0.15,10000,-0.01,-0.01,2,0,2,30,50,70,"E-Commerce,Retail,Fashion,Online Portals",Internet & Direct Marketing Retail
+71,1318,MTM3NDQyM0E=,2020,2000,-1,-1,-1,-1,-1,-0.01,-1,-0.25,-0.25,1,0,2,50,50,50,"E-Commerce,Fashion",Internet & Direct Marketing Retail
+72,1319,MTEzMTQyNUg=,2015,10000,-1,-1,80000,-1,15-Dec,-0.01,-20000,-0.01,-0.01,7,0,5,1.1,15.79,42.95,"Marketplace,E-Commerce,Internet,Fashion,Graphic Design",Internet & Direct Marketing Retail
+73,1320,MTE5NDk1N1A=,2016,5000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,2,30,50,70,"Fintech,Cryptocurrency,Finance,Bitcoin",Internet & Direct Marketing Retail
+74,1321,MTMwODE5Nk0=,2023,200000,-1,-1,20000,-1,21-Dec,-0.01,-80000,-0.01,-0.01,-1,0,2,2.9,50,97.1,"Marketplace,E-Commerce,Mobile Apps,Agriculture,B2B",Internet & Direct Marketing Retail
+75,1322,RjEyMzg3ODdV,2018,100000,-1,-1,3000000,-1,21-Dec,0.58,60000,-0.01,-0.27,3,0,1,100,100,100,"E-Commerce,Lifestyle,Retail,Consumer Goods",Internet & Direct Marketing Retail
+76,1323,MTMwNTcxN1A=,2018,200000,-1,-1,2000000,-1,20-Dec,67.22,-1000000,-0.01,-0.01,3,0,3,15,34,51,"E-Commerce,Grocery,Delivery",Internet & Direct Marketing Retail
+77,1324,RjExODI2MzJQ,2016,3000,-1,-1,1000000,-1,21-Dec,1.7,-100000,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Grocery,Delivery",Internet & Direct Marketing Retail
+78,1325,MTEzNzcyOVc=,2015,30000,-1,-1,200000,-1,17-Dec,-0.01,10000,-0.01,0.25,2,0,2,45,50,55,"E-Commerce,Retail,Women",Internet & Direct Marketing Retail
+79,1326,MTIzNDI4MVQ=,2017,7000,-1,-1,900000,-1,21-Dec,0.26,20000,-0.01,-0.01,2,0,3,5,34,61,"E-Commerce,Retail,Shopping",Internet & Direct Marketing Retail
+80,1327,RjEyMzQ0NzVY,2017,200000,-1,-1,1,-1,20-Jun,-0.01,900000,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Mobile Apps,Wellness",Internet & Direct Marketing Retail
+81,1328,MTM2NDE3M1Q=,2020,20000,-1,-1,10000,-1,21-Apr,-0.01,-60000,-0.01,-0.01,1,0,1,100,100,100,E-Commerce,Internet & Direct Marketing Retail
+82,1329,MjAxNzAxOTA5Tg==,2015,800000,2000000,600000,5000000,18-May,22-Jun,0.27,400000,-0.1,-0.23,2,2,8,0.69,6.54,30.77,"E-Commerce,Subscription Service,Internet,Flowers",Internet & Direct Marketing Retail
+83,1330,MTIwNjI4MEQ=,2000,1000,-1,-1,20000000,-1,21-Dec,0.67,2000000,0.22,0.29,1,0,6,15,15,20,"E-Commerce,Retail",Internet & Direct Marketing Retail
+84,1331,MTI0MDY5NVg=,2017,200000,-1,-1,50000,-1,19-Dec,-0.01,-30000,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Big Data",Internet & Direct Marketing Retail
+85,1332,MTAzNjA4MVY=,2013,400000,1000000,100000,200000,16-Oct,20-Dec,-0.43,-80000,0.2,0.2,1,1,1,100,100,100,"E-Commerce,Restaurants",Internet & Direct Marketing Retail
+86,1333,MTA2NDA5Nkg=,2013,200000,-1,-1,300000,-1,18-Dec,-0.01,-20000,-0.14,-0.01,2,0,5,3.74,12.78,37.36,"Small & Medium-sized Enterprises (SMEs),Marketplace,E-Commerce,B2B,Mobile",Internet & Direct Marketing Retail
+87,1334,MTE4MzA4NFA=,2016,1,-1,-1,100000,-1,19-Mar,-0.01,-60000,-0.01,-0.01,-1,0,3,33.33,33.33,33.33,"E-Commerce,Fashion,Textiles",Internet & Direct Marketing Retail
+88,1335,MTI4MjAwOFg=,2018,20000,-1,-1,100000,-1,21-May,3.99,2000,-0.67,-0.6,3,0,5,4.56,13.68,52.9,Food Delivery,Internet & Direct Marketing Retail
+89,1336,MTIxNTEwME0=,2017,20000,-1,-1,400000,-1,21-Feb,3.65,20000,-0.01,-0.01,1,0,2,40,50,60,"E-Commerce,Skincare,Cosmetics",Internet & Direct Marketing Retail
+90,1337,MTExNTgzNEQ=,2014,40000,-1,-1,10000,-1,20-Jan,-0.01,-20000,-0.01,-0.01,-1,0,3,16,42,42,"Travel,Search Engine",Internet & Direct Marketing Retail
+91,1338,MjAxODE4ODA1TQ==,2018,20000,-1,-1,-1,-1,-1,-0.01,-1,-0.08,-0.01,1,0,-1,-1,-1,-1,"Food & Beverage (F&B),E-Commerce,Grocery,Delivery,Advertising,Internet,Mobile,Food Delivery",Internet & Direct Marketing Retail
+92,1339,MjAxNTEwMDA4Rw==,2015,1000,-1,-1,-1,-1,-1,-0.01,-1,0.05,0.37,2,0,2,40,50,60,"Fintech,Cryptocurrency,Digital Media,Bitcoin,Data Mining",Internet & Direct Marketing Retail
+93,1340,MTE0NzAzNFU=,2015,8000,-1,-1,900000,-1,18-Jun,-0.01,-60000,-0.27,-0.27,1,0,-1,-1,-1,-1,"Marketplace,E-Commerce,Internet,Gift",Internet & Direct Marketing Retail
+94,1341,MTM0MDQyMk0=,2018,100000,-1,-1,100,-1,20-Dec,-0.01,-40000,0.67,0.67,2,0,4,10.12,25.615,38.65,"E-Commerce,Retail",Internet & Direct Marketing Retail
+95,1342,OTI4NTQ2Vg==,2011,400000,2000000,200000,300000,14-Aug,19-Dec,0.25,8000,-0.01,-0.01,5,1,4,9.8,25.025,40.14,"E-Commerce,Advertising",Internet & Direct Marketing Retail
+96,1343,MTE5NTAwM0s=,2016,20000,-1,-1,2000000,-1,19-Dec,-0.01,60000,-0.17,-0.21,1,0,2,10,50,90,"E-Commerce,Logistics",Internet & Direct Marketing Retail
+97,1344,MTI0MzA5M1Q=,2017,40000,-1,-1,1000000,-1,20-Dec,0.51,90000,-0.01,-0.01,-1,0,2,50,50,50,"E-Commerce,Wellness",Internet & Direct Marketing Retail
+98,1345,ODgzNjc1QQ==,2009,300000,-1,-1,80000,-1,20-Dec,-0.01,2000,-0.01,-0.01,1,0,7,0,7.27,60,"E-Commerce,Lifestyle",Internet & Direct Marketing Retail
+99,1346,MTM0NTI5NU0=,2019,600000,-1,-1,200,-1,20-Dec,-0.01,-70000,-0.25,-0.25,1,0,3,14,30,56,"E-Commerce,Real Estate,PropTech",Internet & Direct Marketing Retail
+100,1347,MTM2MDQyNEQ=,2020,1,-1,-1,-1,-1,21-Jun,-0.01,-2000,-0.01,-0.01,3,0,1,100,100,100,"E-Commerce,AgriTech,Agriculture",Internet & Direct Marketing Retail
+101,1348,MTA3NzgxNEQ=,2014,2000,-1,-1,50000,-1,20-Dec,0.3,-30000,-0.01,-0.01,1,0,2,10,50,90,"E-Commerce,Consumer Goods,Food Processing",Internet & Direct Marketing Retail
+102,1349,MTEzNzg3OUQ=,2015,400000,2000000,200000,-1,21-Sep,21-Dec,-1,-80000,-0.01,-0.01,2,2,7,1.77,6.17,46.31,"E-Commerce,Grocery,Wholesale",Internet & Direct Marketing Retail
+103,1350,MTQzNzY1NVQ=,2021,10000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,2,50,50,50,"E-Commerce,Mobile Apps",Internet & Direct Marketing Retail
+104,1351,MTE2NzM4NEE=,2015,500000,2000000,300000,90000,19-Feb,19-Oct,0.93,-200000,-0.01,-0.01,-1,0,7,0.94,5.64,61.39,"Marketplace,E-Commerce,Internet of Things (IoT),Internet",Internet & Direct Marketing Retail
+105,1352,MTI4NTYzN1c=,2018,1,-1,-1,3000,-1,21-Jun,-0.01,-200000,0.18,0.67,1,0,2,40,50,60,"E-Commerce,Grocery,Agriculture",Internet & Direct Marketing Retail
+106,1353,OTE4NTE5RA==,2010,1,-1,-1,-1,-1,19-Dec,-0.01,-1000,-0.01,-0.01,2,0,1,100,100,100,"E-Commerce,Marketing,Loyalty Programs",Internet & Direct Marketing Retail
+107,1354,MTMxNzM4NEg=,2019,1000000,2000000,200000,6000,21-Feb,21-Dec,1.57,-60000,-0.01,-0.01,2,1,16,0.11,0.71,67.89,"Marketplace,Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+108,1355,MTE2MDA4Nlc=,2015,4000000,4000000,3000000,2000000,20-Aug,20-Dec,0.13,-1000000,0.09,0.26,2,1,3,6.04,6.04,87.92,"E-Commerce,Grocery",Internet & Direct Marketing Retail
+109,1356,MTA4NDA1MVY=,2014,7000,-1,-1,200000,-1,19-Jun,0.48,4000,0.11,0.18,1,0,2,4.26,50,95.74,"E-Commerce,Retail,Design",Internet & Direct Marketing Retail
+110,1357,MTQwMjM5M1U=,2021,1,-1,-1,-1,-1,-1,-0.01,-1,-0.38,-0.23,1,0,2,30,50,70,"E-Commerce,Beauty",Internet & Direct Marketing Retail
+111,1358,MTA3MzI4OFU=,2013,6000,-1,-1,80000,-1,20-Dec,-0.7,50,-0.01,-0.01,1,0,1,100,100,100,"Food & Beverage (F&B),E-Commerce,Food Processing",Internet & Direct Marketing Retail
+112,1359,MjAxNTM2NzkyTQ==,2015,900000,4000000,900000,4000,20-Feb,21-Dec,-0.99,-300000,-0.01,-0.92,1,1,6,0.35,6.49,69.88,"E-Commerce,Beauty",Internet & Direct Marketing Retail
+113,1360,MTM3OTY3NEg=,2020,200000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,6,0.18,0.805,96.55,"E-Commerce,Health Care",Internet & Direct Marketing Retail
+114,1361,MTIwMjM5M1A=,2016,1,-1,-1,200,-1,19-Sep,-0.01,-9000,-0.01,-0.01,-1,0,2,50,50,50,"E-Commerce,3D Technology",Internet & Direct Marketing Retail
+115,1362,MTI4NDY0MFY=,2018,800000,4000000,700000,500000,21-Jan,20-Jul,30.54,-30000,-0.01,-0.01,1,1,2,16.58,50,83.42,"E-Commerce,Retail,Consumer Goods",Internet & Direct Marketing Retail
+116,1363,MTMwNDg0NlQ=,2018,20000,-1,-1,900000,-1,22-Mar,0.43,200000,0.06,0.89,-1,0,1,100,100,100,"E-Commerce,Web Design",Internet & Direct Marketing Retail
+117,1364,MTA5ODQxOFY=,2014,100000,-1,-1,20,-1,19-Aug,-0.95,-20000,-0.01,-0.01,1,0,2,0,50,100,"Small & Medium-sized Enterprises (SMEs),E-Commerce",Internet & Direct Marketing Retail
+118,1365,ODk0MDU3Vg==,2010,700000,2000000,500000,1000000,17-Aug,21-May,-0.14,-10000,-0.13,0.17,2,1,7,1,5,68,"E-Commerce,Retail",Internet & Direct Marketing Retail
+119,1366,MTI3MzA2Mk0=,2018,200000,-1,-1,6000,-1,19-Apr,-0.01,-70000,-0.13,0.17,1,0,7,14.29,14.29,14.29,"Marketplace,Events",Internet & Direct Marketing Retail
+120,1367,MTE5OTAwNlY=,2016,100000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,2,22.22,50,77.78,"E-Commerce,Grocery,Delivery",Internet & Direct Marketing Retail
+121,1368,MTI4ODAyOFA=,2018,1,-1,-1,70000,-1,21-Dec,-0.51,-3000,-0.01,-0.01,-1,0,1,100,100,100,"E-Commerce,Consumer Goods",Internet & Direct Marketing Retail
+122,1369,MTMyMDYxMlQ=,2019,1000,-1,-1,40000,-1,21-Jun,0.9,-20000,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,Lifestyle,Travel",Internet & Direct Marketing Retail
+123,1370,MjAyMTM2MTU5Qw==,2021,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,Delivery",Internet & Direct Marketing Retail
+124,1371,MTE5MjIxMUg=,2016,1000000,-1,-1,70000,-1,22-Jun,2.44,-90000,-0.01,-0.01,1,0,7,2,10,32,"Marketplace,Financial Services,Lending",Internet & Direct Marketing Retail
+125,1372,MTA3NjI0OVg=,2014,300000,-1,-1,80000,-1,20-Mar,-0.01,-40000,-0.01,-0.01,1,0,3,15,42.5,42.5,"Food & Beverage (F&B),E-Commerce,Manufacturing,Food Processing,Bakery",Internet & Direct Marketing Retail
+126,1373,MTE2ODQyOFg=,2015,100000,-1,-1,3000000,-1,21-Nov,-0.15,-9000,0.07,-0.01,1,0,4,15,25,35,"Food & Beverage (F&B),E-Commerce,Manufacturing",Internet & Direct Marketing Retail
+127,1374,NjM2NTA0WA==,2003,500000,-1,-1,4000000,-1,21-Dec,0.12,300000,-0.01,-0.01,1,0,5,10,25,27.5,Consumer Goods,Internet & Direct Marketing Retail
+128,1375,NzQwNjI3RA==,2006,400000,-1,-1,1000000,-1,20-Dec,-0.2,-5000,-0.01,-0.01,3,0,3,0,0,100,Consumer Goods,Internet & Direct Marketing Retail
+129,1376,MTAxMDA4OFc=,2012,200000,-1,-1,40000,-1,18-Dec,-0.01,-30000,-0.01,0.13,1,0,2,50,50,50,"Consumer Goods,Water",Internet & Direct Marketing Retail
+130,1377,MTMzOTM2OFQ=,2019,70000,-1,-1,10000,-1,21-Dec,-0.66,-10000,-0.01,-0.01,1,0,2,50,50,50,"Consumer Goods,Water",Internet & Direct Marketing Retail
+131,1378,MTE2ODgxMFY=,2015,20000,-1,-1,50000,-1,20-Mar,-0.01,6000,-0.01,-0.01,1,0,4,9.99,29.7,30.6,"Wellness,Consumer Goods",Internet & Direct Marketing Retail
+132,1379,MTI0MTg5MU0=,2017,1,-1,-1,100000,-1,19-Jul,151.57,-100000,-0.01,-0.01,3,0,2,35,50,65,Consumer Goods,Internet & Direct Marketing Retail
+133,1380,MTE4MTE4NUQ=,2016,200000,-1,-1,10000000,-1,21-Dec,-0.01,2000000,-0.01,-0.01,-1,0,2,10,50,90,Consumer Goods,Internet & Direct Marketing Retail
+134,1381,MTMzNTA3NlQ=,2019,20000,-1,-1,800,-1,21-Jun,-0.97,-30000,-0.01,-0.01,1,0,2,20,50,80,"E-Commerce,Pharmaceutical,Health Care,Retail",Internet & Direct Marketing Retail
+135,1382,MTA2NjcwOVc=,2013,300000,-1,-1,2000000,-1,21-Dec,-0.02,20000,-0.01,-0.01,1,0,2,20,50,80,"E-Commerce,Fashion,Printing",Internet & Direct Marketing Retail
+136,1383,MTIzNDY5M0Q=,2017,1000,-1,-1,300000,-1,19-Jun,-0.01,-800,-0.01,-0.01,1,0,3,25,25,50,"E-Commerce,Internet,Food Delivery",Internet & Direct Marketing Retail
+137,1384,RjEwODk0NDRW,2014,200000,-1,-1,60000000,-1,20-Dec,-0.37,700000,-0.01,-0.01,2,0,2,0,50,100,"E-Commerce,Delivery,Transportation,Food Delivery",Internet & Direct Marketing Retail
+138,1385,MTA5NzA2MkE=,2014,500000,3000000,300000,600000,18-Sep,21-Dec,-0.02,300000,-0.01,-0.01,1,1,7,6.3,13.6,30,"E-Commerce,Retail",Internet & Direct Marketing Retail
+139,1386,MTIzMTExN1A=,2017,600000,3000000,600000,900000,21-Sep,21-Jul,1.67,9000,-0.01,0.62,3,2,9,3.18,7.36,32.09,"E-Commerce,Information Technology,Food Delivery,Catering",Internet & Direct Marketing Retail
+140,1387,MTM0NTk2NFg=,2019,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Retail,Consumer Goods",Internet & Direct Marketing Retail
+141,1388,MTA4NDgxOVg=,2014,200000,-1,-1,3000000,-1,20-Mar,-0.16,8000,-0.01,-0.01,1,0,1,100,100,100,Grocery,Internet & Direct Marketing Retail
+142,1389,MTI0ODI1MFc=,2017,1,-1,-1,1000,-1,20-Sep,-0.05,-5000,-0.01,-0.01,1,0,4,5,12.5,70,"E-Commerce,Women,Online Portals",Internet & Direct Marketing Retail
+143,1390,MTE0NTk5OU0=,2015,300000,2000000,200000,1000000,21-Feb,19-Dec,0.57,-20000,0.1,0.38,2,1,5,0.5,18,36,"E-Commerce,Retail,Jewellery,Luxury Goods",Internet & Direct Marketing Retail
+144,1391,MTE5MTExM1c=,2016,100000,-1,-1,600000,-1,20-Aug,-0.01,-50000,-0.25,-0.33,1,0,2,4.23,50,95.77,"E-Commerce,Grocery,Retail",Internet & Direct Marketing Retail
+145,1392,MzE4ODI4UA==,1994,600000,-1,-1,1000000,-1,20-Dec,-0.97,-600000,0.43,0.67,-1,0,2,20,50,80,"Fintech,E-Commerce,Mobile Apps",Internet & Direct Marketing Retail
+146,1393,MTMyMzc5MEs=,2019,2000,-1,-1,400000,-1,21-Dec,1.37,20000,-0.01,-0.01,1,0,2,50,50,50,"E-Commerce,Consumer Goods",Internet & Direct Marketing Retail
+147,1394,MTIwOTI3MVc=,2016,1,-1,-1,100000,-1,17-Dec,-0.01,5000,-0.01,-0.01,1,0,3,21,30,49,"E-Commerce,Retail",Internet & Direct Marketing Retail
+148,1395,MTEzNjc0OVA=,2015,30000,-1,-1,3000000,-1,21-Apr,1.27,500000,-0.01,-0.01,1,0,2,30,50,70,"E-Commerce,Medical Device,Retail",Internet & Direct Marketing Retail
+149,1396,MTE2NjAwNlY=,2015,9000,-1,-1,100000,-1,19-Dec,-0.01,600,-0.01,-0.01,-1,0,2,49,50,51,"Wellness,Consumer Goods",Internet & Direct Marketing Retail
+150,1397,RjExNjUxNDNX,2015,-1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,-1,-1,-1,-1,"E-Commerce,Internet,Coupons,Price Comparison",Internet & Direct Marketing Retail
+151,1398,MjAyMDA0NDY1RA==,2016,800000,4000000,500000,-1,22-May,21-Dec,-0.01,-3000,0.07,-0.01,2,2,8,0.68,4.09,67.08,"Marketplace,E-Commerce,Automotive",Internet & Direct Marketing Retail
+152,1399,MTMwOTAyOFg=,2018,100000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.2,3,0,3,5,47,48,"E-Commerce,Mobile Apps,Coffee",Internet & Direct Marketing Retail
+153,1400,MTE2NDczOFU=,2015,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,5,8,23,23,"Grocery,Price Comparison",Internet & Direct Marketing Retail
+154,1401,MTEzMzIzMUs=,2015,2000000,4000000,500000,400000,21-May,22-Mar,0.84,-200000,0.1,0.1,3,3,10,1.11,3.735,53.99,"Marketplace,E-Commerce,Fitness,Wellness,Health Care",Internet & Direct Marketing Retail
+155,1402,MTI4NjUxM1g=,2018,100000,-1,-1,10000,-1,21-Dec,39.43,-20000,-0.01,-0.01,4,0,10,0.94,3.98,56.65,"E-Commerce,Health Care,Tourism,Medical",Internet & Direct Marketing Retail
+156,1403,MTQ1MzczOE0=,2022,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,2,1,0,1,100,100,100,"E-Commerce,Technology,Internet,Sales",Internet & Direct Marketing Retail
+157,1404,RjEzNTMxNzdV,2019,1,-1,-1,40000,-1,20-Dec,-0.01,20000,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,E-Commerce",Internet & Direct Marketing Retail
+158,1405,MTI3NTc5OVg=,2018,300000,-1,-1,200000,-1,21-Jun,4.6,-30000,0.25,0.25,2,0,9,2,10,19.56,"E-Commerce,Automotive,B2C",Internet & Direct Marketing Retail
+159,1406,MTE3ODU2NFA=,2016,20000,-1,-1,1000,-1,17-Jan,-0.01,-200000,-0.01,-0.01,3,0,1,100,100,100,"E-Commerce,Retail,Gift",Internet & Direct Marketing Retail
+160,1407,MTQzODM2OVc=,2021,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,1,100,100,100,"E-Commerce,Grocery",Internet & Direct Marketing Retail
+161,1408,MTI5MjE5MUE=,2018,1000000,5000000,1000000,300000,23-Jan,21-Dec,15.26,-80000,0.33,0.14,1,3,7,0.32,6.7,60.02,"E-Commerce,Insurance",Internet & Direct Marketing Retail
+162,1409,MTE3ODkzM1Y=,2016,60000,-1,-1,400000,-1,21-Mar,2.84,60000,-0.01,-0.01,2,0,3,10,30,60,"E-Commerce,Manufacturing,Skincare,Cosmetics",Internet & Direct Marketing Retail
+163,1410,MTI0NDI1MEs=,2015,-1,-1,-1,3000000,-1,19-Dec,-0.01,200000,-0.01,-0.01,1,0,-1,-1,-1,-1,"E-Commerce,Shopping,Gift Card",Internet & Direct Marketing Retail
+164,1411,MTQzMjMxNFc=,2021,70000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,3,20,20,60,"Marketplace,Insurance,Financial Services",Internet & Direct Marketing Retail
+165,1412,MTE4NTQ1OVY=,2016,100000,-1,-1,20000,-1,19-Jun,-0.01,-50000,-0.01,-0.01,1,0,3,25,25,50,"Marketplace,Real Estate,Rental",Internet & Direct Marketing Retail
+166,1413,MTE5Mzk2MFQ=,2016,100000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,3,33.33,33.33,33.33,"Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+167,1414,MTQxMTUyNlg=,2021,3000,-1,-1,-1,-1,-1,-0.01,-1,0.14,-0.01,3,0,3,10,10,80,"Food & Beverage (F&B),E-Commerce,Health",Internet & Direct Marketing Retail
+168,1415,MTMzNDczNUg=,2019,1,-1,-1,100000,-1,20-Jun,-0.01,-30000,-0.01,1,2,0,3,7,30,63,"Marketplace,Food & Beverage (F&B),Delivery",Internet & Direct Marketing Retail
+169,1416,MTEzMjU1NVA=,2015,10000,-1,-1,40000,-1,20-May,-0.01,-4000,-0.01,-0.01,2,0,6,3,8,40,"Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+170,1417,NjI3NjcxSA==,2003,400000,-1,-1,2000000,-1,21-Dec,-0.28,100000,-0.01,-0.01,2,0,1,100,100,100,"Food & Beverage (F&B),Grocery,Retail",Internet & Direct Marketing Retail
+171,1418,MTI2MTc4NE0=,2017,100000,-1,-1,1000000,-1,20-Dec,1.5,-50000,-0.2,-0.33,2,0,2,2.99,50,97.01,"Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+172,1419,MTI0OTk1OVQ=,2017,20000,-1,-1,20000,-1,21-Oct,0.57,4000,-0.01,-0.01,1,0,1,100,100,100,"Consumer Goods,Chemicals",Internet & Direct Marketing Retail
+173,1420,MTQyMzMxNEE=,2021,80000,-1,-1,20000,-1,21-Dec,-0.01,20000,-0.01,-0.01,-1,0,3,10,45,45,"Retail,Food and Beverage (F&B)",Internet & Direct Marketing Retail
+174,1421,MTEzODQ4OFg=,2015,30000,-1,-1,30000,-1,20-Jun,-0.01,4000,-0.01,-0.01,1,0,2,20,50,80,"Retail,Subscription Service",Internet & Direct Marketing Retail
+175,1422,Nzg0NzU1Vg==,2007,30000,-1,-1,10000,-1,20-Jun,-0.01,-60,-0.01,-0.01,1,0,1,100,100,100,Retail,Internet & Direct Marketing Retail
+176,1423,MTM1ODcwNkQ=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,4,17,23.5,36,"Food & Beverage (F&B),Retail",Internet & Direct Marketing Retail
+177,1424,MTAwNDQ1NVU=,2012,200000,-1,-1,900000,-1,19-Dec,-0.01,-5000,-0.01,-0.01,3,0,3,25,25,50,Retail,Internet & Direct Marketing Retail
+178,1425,MTI3MDg3NEg=,2018,200000,-1,-1,500000,-1,22-Feb,-0.01,-40000,0.06,0.21,-1,0,8,0.95,10.1,25.97,"Software,Marketplace",Internet & Direct Marketing Retail
+179,1426,MTE3MzU4N0E=,2016,3000000,8000000,400000,1000000,21-Oct,21-Jun,-0.31,-500000,-0.11,-0.11,4,3,14,0.46,6.27,15.3,"Software,Small & Medium-sized Enterprises (SMEs),Marketplace,Saas,B2B,Enterprise Resource Planning (Erp),Procurement",Internet & Direct Marketing Retail
+180,1427,MTM0ODUxNVY=,2019,1,-1,-1,30000,-1,20-Dec,-0.01,600,-0.5,-0.33,3,0,1,100,100,100,"Software,E-Commerce,Information Technology,Cloud,Web Development,Web Design,UX Design",Internet & Direct Marketing Retail
+181,1428,MTI4OTk5OUE=,2018,20000,-1,-1,300000,-1,20-Dec,-0.55,-300000,0.08,0.27,2,0,7,3.26,11.11,28.91,"Software,Marketplace,Real Estate,Internet,B2B",Internet & Direct Marketing Retail
+182,1429,MTMzMTI3NlY=,2019,10000,-1,-1,60000,-1,20-Nov,-0.01,30000,-0.01,-0.01,3,0,3,25,37,38,"Software,E-Commerce,Mobile Apps,Information Technology,Web Development,Internet,Web Design",Internet & Direct Marketing Retail
+183,1430,MTI3NzE3M0E=,2018,60000,-1,-1,600000,-1,21-Apr,5.86,-40000,-0.01,0.5,-1,0,2,45.5,50,54.5,"Software,E-Commerce,Apps,Web Development",Internet & Direct Marketing Retail
+184,1431,MTIwMjE5NFY=,2016,200000,-1,-1,20000,-1,20-Dec,-0.58,-100000,-0.01,-0.01,1,0,2,5,50,95,"Consumer Goods,Consumer Electronics,Home Electronics",Internet & Direct Marketing Retail
+185,1432,MTI0MTUyN1U=,2017,40000,-1,-1,100000,-1,20-Sep,1.58,1000,-0.01,-0.01,2,0,4,10,30,30,"Software,Consumer Electronics",Internet & Direct Marketing Retail
+186,1433,ODQ2NDkyVQ==,2009,60000,-1,-1,80000,-1,20-Dec,-0.76,-50000,0.1,0.22,1,0,4,2,28.35,41.3,"Consumer Electronics,Smart Home",Internet & Direct Marketing Retail
+187,1434,MTE1NjM4N0g=,2015,30000,-1,-1,500000,-1,21-Dec,1.03,-20000,-0.04,-0.04,1,0,6,10,11.42,33,"Internet,Ios,Consumer Electronics,Information & Communications Technology (ICT)",Internet & Direct Marketing Retail
+188,1435,MTI4MjgzN1U=,2018,20000,-1,-1,70000,-1,19-Dec,-0.01,-700000,-0.01,-0.01,2,0,2,30,50,70,"Consumer Electronics,Smart Home",Internet & Direct Marketing Retail
+189,1436,MTIxMTY1MFQ=,2016,1,-1,-1,10000,-1,21-Dec,-0.51,-9000,0.11,0.25,1,0,1,100,100,100,"Food & Beverage (F&B),E-Commerce,Internet,Food Delivery",Internet & Direct Marketing Retail
+190,1437,OTIwMDE3SA==,2010,1,-1,-1,70000,-1,19-Dec,-0.15,20000,-0.01,-0.01,1,0,2,50,50,50,"Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+191,1438,MjAxOTEwMjY1Tg==,2019,900000,-1,-1,-1,-1,22-Dec,-0.01,-9000,0.22,-0.21,2,0,2,41.67,50,58.33,"Food & Beverage (F&B),E-Commerce,Delivery",Internet & Direct Marketing Retail
+192,1439,MTQyMTI5Mkg=,2021,20000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,2,30,50,70,"Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+193,1440,MTI1MzQ4NUQ=,2017,30000,-1,-1,50000,-1,21-Jun,-0.58,-20000,-0.01,-0.01,3,0,5,2,28.19,37.6,"Marketplace,Pet",Internet & Direct Marketing Retail
+194,1441,MTI2NzM5N1U=,2018,20000,-1,-1,10,-1,19-Jun,-0.01,-8000,-0.01,-0.01,2,0,3,15,35,50,"Marketplace,Rental",Internet & Direct Marketing Retail
+195,1442,MTQzNTY0OUs=,2021,10000,-1,-1,-1,-1,-1,-0.01,-1,-0.33,-0.01,2,0,2,30,50,70,"Marketplace,Gift",Internet & Direct Marketing Retail
+196,1443,MTIzODc4N1U=,2017,100000,-1,-1,2000000,-1,20-Dec,-0.01,100000,-0.01,-0.27,2,0,-1,-1,-1,-1,"Retail,Mattress",Internet & Direct Marketing Retail
+197,1444,MTE0NDU5MEQ=,2015,1,-1,-1,200000,-1,19-Dec,-0.01,-500000,-0.01,1,1,0,2,50,50,50,"E-Commerce,Retail,Shopping",Internet & Direct Marketing Retail
+198,1445,NzI0MTkyVA==,2006,1,-1,-1,900000,-1,21-Dec,-0.01,100000,-0.5,-0.5,1,0,8,1,3,66,"E-Commerce,Real Estate,PropTech,Property",Internet & Direct Marketing Retail
+199,1446,MTE0MjgxMEQ=,2015,80000,-1,-1,7000,-1,17-Apr,-0.01,-100000,-0.01,-0.01,1,0,4,5,20,55,"Marketplace,Real Estate",Internet & Direct Marketing Retail
+200,1447,MjAwNjE1MDYzSA==,2006,400000000,900000000,100000000,80000000,21-Aug,21-Dec,0.22,-100000000,0.05,0.1,2,6,97,0,0.01,30.18,"E-Commerce,Real Estate,Rental",Internet & Direct Marketing Retail
+201,1448,MTIzMTkxN1c=,2017,100000,-1,-1,400000,-1,18-Sep,-0.01,3000,-0.01,0.14,1,0,2,50,50,50,"E-Commerce,Real Estate,Rental",Internet & Direct Marketing Retail
+202,1449,MTE5OTg3NlU=,2016,100000,-1,-1,1000000,-1,19-Dec,-0.01,-20000,-0.01,-0.01,1,0,2,49,50,51,"Marketplace,Health Care,Online Portals",Internet & Direct Marketing Retail
+203,1450,MTI5Njg3OUs=,2018,20000,-1,-1,90000,-1,19-Dec,-0.01,-70000,-0.01,-0.01,1,0,5,2.5,29.25,29.25,"Marketplace,Real Estate,Rental",Internet & Direct Marketing Retail
+204,1451,MTI0MjQxM0g=,2017,6000,-1,-1,60000,-1,19-Dec,-0.01,-100000,-0.01,-0.01,3,0,1,100,100,100,"Marketplace,Co-Working,Real Estate",Internet & Direct Marketing Retail
+205,1452,MTIyMTgwOUs=,2017,300000,-1,-1,1000000,-1,21-Mar,1.09,40000,-0.01,0.5,1,0,8,2,5.835,63.04,"E-Commerce,Home Decor,Home Renovation",Internet & Direct Marketing Retail
+206,1453,MTIyMTQzN0s=,2017,200000,-1,-1,500000,-1,20-Jun,-0.01,5000,-0.01,-0.01,1,0,3,20,30,50,"Consumer Goods,Home Decor",Internet & Direct Marketing Retail
+207,1454,MTAwOTcyOEg=,2012,900000,5000000,100000,400000,20-Feb,18-Dec,0.64,-200000,-0.01,0.11,2,2,5,8.09,27.57,27.57,"Marketplace,E-Commerce,Interior Design",Internet & Direct Marketing Retail
+208,1455,MTExNjM0M0g=,2014,200000,-1,-1,200000,-1,18-Dec,-0.01,-200000,-0.01,-0.01,1,0,5,4.12,26.23,30.04,"Food & Beverage (F&B),E-Commerce,Coffee",Internet & Direct Marketing Retail
+209,1456,MjAyMTEyNjM3RQ==,2016,1000000,10000000,700000,600,22-Jun,21-Dec,-1,-40000,0.02,0.23,3,2,26,0.06,1.605,42.28,"Marketplace,Food & Beverage (F&B),Catering",Internet & Direct Marketing Retail
+210,1457,MTE5NjgyM1A=,2016,1,-1,-1,7000,-1,19-Dec,-0.01,700,-0.01,-0.01,1,0,2,20,50,80,"Food & Beverage (F&B),E-Commerce,Grocery,Retail",Internet & Direct Marketing Retail
+211,1458,MTA4MDY1MEQ=,2013,200000,-1,-1,600000,-1,21-Dec,-0.1,-1,-0.01,-0.33,1,0,2,1.9,50,98.1,"Food & Beverage (F&B),E-Commerce,Wine & Spirits",Internet & Direct Marketing Retail
+212,1459,MTMxOTc0MUs=,2019,10000,-1,-1,200000,-1,20-Aug,-0.01,-40000,-0.01,-0.01,2,0,2,30,50,70,"Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+213,1460,MTA0MjU4OFU=,2013,10000000,5000000,1000000,1000000,19-Aug,21-Dec,-0.15,-100000,-0.01,-0.01,2,2,1,100,100,100,"Food & Beverage (F&B),E-Commerce,Delivery,Hospitality,Transportation,Travel,Food Delivery",Internet & Direct Marketing Retail
+214,1461,MTQyMzg5MEs=,2021,-1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,-1,-1,-1,-1,"Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+215,1462,MTIwMzAzM1g=,2016,60000,-1,-1,400000,-1,20-Oct,0.11,30000,-0.08,-0.14,3,0,3,33.33,33.33,33.33,"Food & Beverage (F&B),E-Commerce,Food Delivery",Internet & Direct Marketing Retail
+216,1463,MTMxOTM3NU0=,2019,90000,-1,-1,300000,-1,20-Dec,-0.01,-90000,-0.33,-0.5,1,0,2,5,50,95,"Food & Beverage (F&B),E-Commerce,Alcohol",Internet & Direct Marketing Retail
+217,1464,MTEzNDc4NFU=,2015,100000,-1,-1,40000,-1,20-Dec,7.34,-100000,-0.01,0.5,1,0,2,20,50,80,"Consumer Research,Market Research",Internet & Direct Marketing Retail
+218,1465,RjExNzUzNDNN,2016,100000,-1,-1,1000000,-1,20-Dec,1.08,40000,-0.06,-0.27,1,0,1,100,100,100,"E-Commerce,Internet,Communities,Coupons,Affiliate Marketing,Content Marketing",Internet & Direct Marketing Retail
+219,1466,MjAyMDIwNzkyRA==,2014,600000000,1000000000,200000000,700000000,22-Feb,21-Dec,1,-100000000,-0.01,0.39,2,7,2,15,50,85,"E-Commerce,Automotive",Internet & Direct Marketing Retail
+220,1467,OTQyODU4VA==,2011,1,-1,-1,300000,-1,21-Mar,-0.36,-80000,-0.01,-0.01,2,0,4,8,20.8,50.4,"E-Commerce,Retail,Fashion,Shopping,Shoes",Internet & Direct Marketing Retail
+221,1468,OTYzMTAxVw==,2011,2000000,-1,-1,1000000,-1,18-Dec,52.2,-400000,-0.05,0.05,2,0,13,1.08,6.18,23,"Fintech,Cryptocurrency,Marketplace",Internet & Direct Marketing Retail
+222,1469,MTM5OTc5NVQ=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,0.33,1,2,0,1,100,100,100,"Marketplace,Mobile Apps,B2B",Internet & Direct Marketing Retail
+223,1470,MTE1MjI1OVg=,2015,20000000,3000000,600000,6000000,17-May,20-Sep,0.14,-7000000,-0.01,-0.01,3,2,1,100,100,100,"Artificial Intelligence (AI),Food & Beverage (F&B),Logistics,Consumer Goods,Robotics,Food Delivery",Internet & Direct Marketing Retail
+224,1471,MTE5ODIyOEQ=,2016,6000000,30000000,3000000,30000000,22-Dec,21-Dec,1.82,-1000000,0.02,0.18,3,2,37,0.1,1.38,21.79,"Software,E-Commerce,Information Technology,Consulting,Internet",Internet & Direct Marketing Retail
+225,1472,MTI2NTU0MFY=,2018,100000,-1,-1,20000,-1,21-Dec,-0.42,-100000,-0.01,-0.01,2,0,-1,-1,-1,-1,"Software,Retail,Data Integration,Information Technology,Point of Sale (POS),Data Visualization",Internet & Direct Marketing Retail
+226,1473,MTI4NDQxNEQ=,2018,600000,10000000,400000,2000000,20-Oct,21-Aug,0.47,400000,-0.01,0.22,1,1,5,0.48,1.44,49.61,"E-Commerce,Mobile Apps,Information Technology,Apps,Web Design",Internet & Direct Marketing Retail
+227,1474,MTE4MjQ2MFg=,2016,1000000,20000000,800000,1000,22-Apr,21-Dec,-0.99,-9000,-0.1,0.21,1,2,16,0.12,0.66,88.7,"Software,E-Commerce,Data Analytics,Retail,Business Intelligence",Internet & Direct Marketing Retail
+228,1475,MjAyMDExNzM1Vw==,2017,10000000,40000000,9000000,400000,22-Mar,22-Sep,0.85,-3000000,-0.11,-0.13,2,4,13,0.26,6.68,20.06,"Artificial Intelligence (AI),Food & Beverage (F&B),E-Commerce,Supply Chain,Big Data",Internet & Direct Marketing Retail
+229,1476,RjEyNDM1NzhY,2017,700000,6000000,200000,1000000,20-Sep,21-Sep,-0.65,300000,-0.16,-0.18,2,0,1,100,100,100,"Artificial Intelligence (AI),Food & Beverage (F&B),E-Commerce,Mobile Apps,Supply Chain,Restaurants,Enterprise Resource Planning (Erp),Information & Communications Technology (ICT),Procurement",Internet & Direct Marketing Retail
+230,1477,MTQ1MTY0NUQ=,2023,1000000,-1,-1,-1,-1,-1,-0.01,-1,3,11,-1,0,4,11.11,16.665,55.56,"Software,Retail,Shopping",Internet & Direct Marketing Retail
+231,1478,MTIzMDk5OEE=,2017,600000,1000000,100000,60000,20-Jun,21-Dec,2.51,-20,0.18,0.3,1,1,6,0.13,1.21,85.13,"Marketplace,Investment,B2B",Internet & Direct Marketing Retail
+232,1479,MTM3NzI0NE0=,2020,200000,-1,-1,2000,-1,21-Jul,-0.01,-20000,-0.01,-0.01,1,0,2,20,50,80,"Consumer Goods,Vending Machine",Internet & Direct Marketing Retail
+233,1480,MTIzMTc4OFU=,2017,200000,-1,-1,20000,-1,19-Oct,-0.01,-6000,-0.01,-0.01,-1,0,2,30,50,70,"Marketplace,B2B",Internet & Direct Marketing Retail
+234,1481,MTIxMTY5NEg=,2016,200000,-1,-1,600000,-1,20-Mar,-0.01,-100000,-0.15,0.21,3,0,12,0.92,1.94,76.04,"Consumer,Service Industry,Parking",Internet & Direct Marketing Retail
+235,1482,OTUwNTYyVQ==,2011,4000,-1,-1,600000,-1,22-Jun,0.19,30000,-0.18,-0.12,3,0,5,5,30,30.01,"Payments,E-Commerce,Mobile",Internet & Direct Marketing Retail
+236,1483,MTA1MTgwMk0=,2013,30000,-1,-1,20000000,-1,21-Dec,0.99,9000000,0.16,0.33,2,0,5,4.75,30.08,30.08,"Marketplace,Gaming",Internet & Direct Marketing Retail
+237,1484,MTQ2NjI0OFQ=,2022,4000000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,1,100,100,100,"Marketplace,Automotive",Internet & Direct Marketing Retail
+238,1485,MTI5NTMzMEs=,2018,5000,-1,-1,200000,-1,19-Dec,-0.01,-2000,-0.01,-0.01,3,0,1,100,100,100,"Marketplace,Events,Catering",Internet & Direct Marketing Retail
+239,1486,OTA2NTg3WA==,2010,60000,-1,-1,40000,-1,21-Dec,17.29,-30000,-0.01,-0.01,2,0,2,30.75,50,69.25,"Marketplace,Legal Tech,Internet,Legal",Internet & Direct Marketing Retail
+240,1487,MTI5MTY0M00=,2018,1,-1,-1,200,-1,19-Dec,-0.01,-20000,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,Travel,Tourism",Internet & Direct Marketing Retail
+241,1488,MTIxNTQzOVg=,2017,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,0.05,4,0,3,23,28,49,"Marketplace,Transportation,Car Sharing",Internet & Direct Marketing Retail
+242,1489,MTIwMTY1OUQ=,2016,60000,-1,-1,800000,-1,19-Dec,-0.01,10,-0.01,-0.01,2,0,7,3.08,9.23,25.38,"E-Commerce,Gaming,Retail,Consumer Goods",Internet & Direct Marketing Retail
+243,1490,MTM3Nzk3NFQ=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.67,-0.67,2,0,1,100,100,100,"Marketplace,Fitness",Internet & Direct Marketing Retail
+244,1491,RjEwNzIyOTBE,2013,600000,-1,-1,6000000,-1,21-Dec,0.05,-3000000,0.06,0.34,1,0,1,100,100,100,"Software,Small & Medium-sized Enterprises (SMEs),E-Commerce,Loyalty Programs,Retail,Enterprise Software,Point of Sale (POS),Crm,Android",Internet & Direct Marketing Retail
+245,1492,MTI2MDEzOUs=,2015,50000,-1,-1,2000,-1,19-Dec,-0.9,-40000,-0.01,-0.01,1,0,3,10,15,75,"Artificial Intelligence (AI),Agriculture,Robotics,Consumer Electronics",Internet & Direct Marketing Retail
+246,1493,MTMwMzc1MlU=,2018,1,-1,-1,30000,-1,20-Dec,-0.01,-1,0.1,0.22,1,0,2,40,50,60,"Software,E-Commerce,Events,Event Management",Internet & Direct Marketing Retail
+247,1494,MTE2MDkwNUE=,2015,50000,-1,-1,50000,-1,21-Jun,-0.82,-600000,0.06,0.09,3,0,2,12,50,88,"Marketplace,Mobile Apps,Education,EdTech,E-Learning",Internet & Direct Marketing Retail
+248,1495,MTI0OTMyMUs=,2017,3000000,-1,-1,100000000,-1,21-Mar,0.28,-2000000,-0.03,0.17,2,0,1,100,100,100,"Marketplace,E-Commerce,Automotive,Internet,Web Apps",Internet & Direct Marketing Retail
+249,1496,MjAxNjA2OTkzQw==,2013,20000000,50000000,4000000,7000000,22-Apr,20-Dec,-0.03,-6000000,0.06,0.33,2,3,24,0.24,1.735,27.55,"Information Technology,Travel,Tourism,E-Commerce Platforms,Adventure Travel",Internet & Direct Marketing Retail
+250,1497,MTI5MjU1MU0=,2018,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,6,5,10,50,"Marketplace,Apps",Internet & Direct Marketing Retail
+251,1498,MTI4MDk0N1A=,2018,1,-1,-1,-1,-1,-1,-0.01,-1,1,1,-1,0,1,100,100,100,"Marketplace,Internet,Online Portals,Home Services",Internet & Direct Marketing Retail
+252,1499,MTE4NzU0OFU=,2016,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,6,1,8.75,51,"Marketplace,E-Commerce,Media & Entertainment,Social Media,Internet,Music",Internet & Direct Marketing Retail
+253,1500,MTMzNTUyM1Y=,2019,60000,-1,-1,1000,-1,20-Dec,-0.01,-3000,-0.01,-0.01,1,0,5,2,4,85,"Marketplace,Mobile Apps,Real Estate,PropTech",Internet & Direct Marketing Retail
+254,1501,MTMyNDIyM0g=,2019,1,-1,-1,50000,-1,21-Apr,-0.01,-2000,-0.01,-0.01,2,0,1,100,100,100,"Cryptocurrency,E-Commerce,Retail,Shopping,Ethereum",Internet & Direct Marketing Retail
+255,1502,NzUyMjkyRA==,2006,100000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,3,33.33,33.33,33.33,"Marketing,Retail",Internet & Direct Marketing Retail
+256,1503,OTc3NzcyVA==,2012,1,-1,-1,50000,-1,14-Dec,-0.01,-20000,-0.01,-0.01,1,0,3,10,39,51,"News,Consumer Electronics,Information & Communications Technology (ICT)",Internet & Direct Marketing Retail
+257,1504,MTA0Mzk4OE0=,2013,600000,1000000,400000,100000,18-Oct,20-Dec,-0.21,-20000,-0.19,-0.19,3,1,5,1.11,3.32,71.43,"Marketplace,Marketing,Events",Internet & Direct Marketing Retail
+258,1505,MTEzNzQyMUg=,2015,1,-1,-1,2000,-1,17-Apr,-0.01,-20000,-0.01,-0.01,1,0,2,5,50,95,"Marketplace,Marketing,Advertising,Internet",Internet & Direct Marketing Retail
+259,1506,MTI2NDc2Nkg=,2018,400000,-1,-1,-1,-1,18-Dec,-0.01,-10000,0.54,1,1,0,1,100,100,100,"Marketplace,Subscription Service,Car Rental",Internet & Direct Marketing Retail
+260,1507,MTM5NzA1MlY=,2020,50000,-1,-1,600,-1,21-Jun,-0.01,-10000,0.2,0.5,1,0,2,1.34,50,98.66,"Marketplace,Marketing,Recruitment",Internet & Direct Marketing Retail
+261,1508,MjAxNjAxNDM1TQ==,2016,6000000,40000000,5000000,-1,17-May,21-Dec,-0.01,1000,-0.01,-0.01,1,1,6,3.61,12.435,47.79,"Loyalty Programs,Big Data,Point of Sale (POS),B2B,Location Based Services,Mobile Advertising,Predictive Analytics,Retail Technology,Local Advertising",Internet & Direct Marketing Retail
+262,1509,MTMxMTk4NEE=,2019,1,-1,-1,400000,-1,20-Jun,-0.01,30000,-0.01,-0.33,-1,0,2,49,50,51,"Marketplace,Fashion",Internet & Direct Marketing Retail
+263,1510,MTIxMTI4N00=,2016,20000,-1,-1,40000,-1,19-Nov,-0.01,-3000,-0.01,-0.17,2,0,1,100,100,100,"E-Commerce,Advertising,Web Development,Digital Marketing",Internet & Direct Marketing Retail
+264,1511,MTIxMDIwNU0=,2016,200000,-1,-1,100000,-1,20-Dec,-0.39,-30000,-0.01,-0.21,2,0,5,10,10,35,"Advertising,Consumer,Brand Marketing,Social Media Marketing,Crowdsourcing",Internet & Direct Marketing Retail
+265,1512,MTA4MjE1OE0=,2014,30000,-1,-1,500000,-1,20-Dec,-0.02,20000,-0.01,-0.01,1,0,4,5,25,45,"Retail,Fashion",Internet & Direct Marketing Retail
+266,1513,MTI4MTE1M0s=,2018,50000,-1,-1,10000,-1,19-Dec,-0.01,-20000,-0.01,-0.01,1,0,6,1.5,7.5,71,"Software,E-Commerce,Financial Services",Internet & Direct Marketing Retail
+267,1514,MTI3MTE2NFA=,2018,70000,-1,-1,20000,-1,19-Apr,-0.01,-200000,-0.11,-0.27,-1,0,2,50,50,50,"Software,E-Commerce,Information Technology",Internet & Direct Marketing Retail
+268,1515,MTM0OTExN0E=,2019,2000,-1,-1,100000,-1,21-Dec,-0.01,10000,-0.09,1,1,0,2,40,50,60,"Artificial Intelligence (AI),Robotics,Hardware,Consumer Electronics",Internet & Direct Marketing Retail
+269,1516,MTQzMTI0MUg=,2021,40000,400000,40000,-1,22-Jan,-1,-0.01,-1,0.25,0.25,7,1,8,5.4,9.5,30.6,"Software,E-Commerce",Internet & Direct Marketing Retail
+270,1517,ODc0MDY2Vg==,2009,30000,-1,-1,500000,-1,19-Dec,-0.01,-50000,0.08,0.18,-1,0,2,30,50,70,"Marketplace,E-Learning,Training",Internet & Direct Marketing Retail
+271,1518,MjAxNTI3NzI0RA==,2015,40000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,-1,-1,-1,-1,"Software,E-Commerce,Mobile Apps,Delivery,Lifestyle,Transportation,Apps,Fashion,Mobile",Internet & Direct Marketing Retail
+272,1519,MTE5MTQ2MVA=,2016,200000,-1,-1,-1,-1,18-Jun,-0.01,-40000,-0.01,-0.01,1,0,4,0.66,5.68,87.98,"Marketplace,Co-Working,Events",Internet & Direct Marketing Retail
+273,1520,MTIzNzI5MFA=,2017,7000,-1,-1,1000000,-1,20-Aug,-0.18,70000,0.17,-0.07,1,0,1,100,100,100,"E-Commerce,Retail,Recreation",Internet & Direct Marketing Retail
+274,1521,NzMyNjM3VQ==,2006,200000,-1,-1,-1,-1,19-Jun,-0.01,-30000,-0.01,-0.01,1,0,2,7.09,50,92.91,"Marketplace,Media & Entertainment,Internet,Music",Internet & Direct Marketing Retail
+275,1522,MTE2MzU5NFA=,2015,200000,-1,-1,80000,-1,21-Dec,-0.26,2000,-0.01,-0.14,1,0,13,1.52,5.19,43.36,"Marketplace,Automotive,Sales",Internet & Direct Marketing Retail
+276,1523,MTM2MjI2NFc=,2020,5000,-1,-1,90000,-1,21-Feb,-0.01,-2000,-0.01,-0.01,1,0,2,50,50,50,"Construction,Consumer,Home Renovation",Internet & Direct Marketing Retail
+277,1524,MTMzNjI3Nlg=,2019,30000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,3,1,49.5,49.5,Marketplace,Internet & Direct Marketing Retail
+278,1525,MTE5Mzc5MUE=,2016,100000,-1,-1,500000,-1,19-Dec,-0.01,-100000,-0.01,-0.01,2,0,4,2,27.5,43,"Marketplace,Children",Internet & Direct Marketing Retail
+279,1526,MTI0OTAyOVY=,2017,2000,-1,-1,-1,-1,19-Dec,-0.01,-200000,-0.01,-0.57,2,0,3,10,10,80,"Marketplace,Machinery",Internet & Direct Marketing Retail
+280,1527,MTI2OTQ1MUg=,2018,1,-1,-1,50000,-1,21-Mar,-0.01,-1,-0.17,-0.17,1,0,1,100,100,100,"Marketplace,Retail",Internet & Direct Marketing Retail
+281,1528,MTI2NzAxNkE=,2018,10000,-1,-1,-1,-1,21-Jun,-0.01,-4000,-0.01,-0.01,3,0,3,3,12,85,Marketplace,Internet & Direct Marketing Retail
+282,1529,MTMwMzIzMFQ=,2018,2000,-1,-1,1000,-1,21-Dec,-0.59,-9000,-0.01,-0.01,1,0,4,1,19.5,60,"Fintech,E-Commerce,Greentech,Waste Management",Internet & Direct Marketing Retail
+283,1530,MTIyODcyOFU=,2017,100000,-1,-1,2000000,-1,21-Dec,1.09,-200000,-0.01,-0.01,2,0,1,100,100,100,"E-Commerce,Logistics,Supply Chain,Packaging Services,Freight Services",Internet & Direct Marketing Retail
+284,1531,MTI5MDcyNks=,2018,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,3,0,3,30,30,40,"Marketplace,Home Services,Cleaners",Internet & Direct Marketing Retail
+285,1532,NzY3MDI5Sw==,2007,70000,-1,-1,1000000,-1,21-Apr,1,70000,-0.01,-0.01,1,0,2,4.71,50,95.29,"Marketplace,Logistics",Internet & Direct Marketing Retail
+286,1533,MjAxMDI0ODUzVw==,2010,2000000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,-1,-1,-1,-1,"Payments,E-Commerce,Financial Services,Mobile Payments",Internet & Direct Marketing Retail
+287,1534,MTQxMzUyOU0=,2021,10000,-1,-1,-1,-1,-1,-0.01,-1,-0.17,-0.12,7,0,5,12.25,12.25,51,"Blockchain,Marketplace",Internet & Direct Marketing Retail
+288,1535,MTE5NzM4NFY=,2016,200000,-1,-1,500000,-1,21-Dec,1.83,40000,-0.01,-0.01,2,0,5,1.27,5.74,84.97,"E-Commerce,Logistics,Supply Chain",Internet & Direct Marketing Retail
+289,1536,MTMwOTM0OEg=,2019,20000000,20000000,1000000,7000000,22-Nov,21-Dec,-0.01,400000,-0.01,-0.01,2,2,34,0.08,0.34,22.46,"Fintech,Retail,Technology,Data,IT Solutions Provider",Internet & Direct Marketing Retail
+290,1537,MTE1NjcwMEg=,2015,400000,6000000,200000,2000000,22-Jul,21-Aug,1.61,8000,-0.08,-0.08,1,2,32,0.01,0.58,22.97,"Marketplace,E-Commerce,Logistics,Delivery,Food Delivery",Internet & Direct Marketing Retail
+291,1538,MTI5NjkwNEQ=,2017,1000000,7000000,500000,1000000,21-Aug,20-Dec,13.57,-300000,-0.08,-0.15,1,1,6,0,1.025,90.89,"E-Commerce,Insurance,Logistics,Information Technology,It Infrastructure",Internet & Direct Marketing Retail
+292,1539,MTM2MDA4MlY=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,0.29,2,2,0,2,50,50,50,"Payments,E-Commerce,Analytics",Internet & Direct Marketing Retail
+293,1540,MTIzMjQ3OVQ=,2017,800000,7000000,400000,800000,22-Mar,21-Sep,2.06,-400000,0.22,-0.01,1,1,13,1.06,3.09,45.51,"E-Commerce,Logistics,Supply Chain,Delivery",Internet & Direct Marketing Retail
+294,1541,MTM2NjYxNEE=,2020,2000,-1,-1,200000,-1,20-Dec,-0.01,-10000,-0.47,-0.1,1,0,1,100,100,100,"Payments,E-Commerce,Marketing",Internet & Direct Marketing Retail
+295,1542,MTQyNTczNks=,2021,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"Fintech,Payments,Marketplace,E-Commerce",Internet & Direct Marketing Retail
+296,1543,NTEwMzc3UA==,2000,20000000,3000000,700000,4000000,17-Jan,21-Dec,1.04,-5000000,0.02,-0.34,1,1,1,100,100,100,"Fintech,Payments,E-Commerce,Financial Services,Mobile Payments,Digital Wallet",Internet & Direct Marketing Retail
+297,1544,OTAyMDI5QQ==,2010,300000,-1,-1,800000,-1,22-Mar,-0.07,100000,0.13,-0.18,-1,0,3,33.33,33.33,33.33,"Fintech,Payments,E-Commerce,Financial Services,Mobile Payments,Digital Wallet",Internet & Direct Marketing Retail
+298,1545,MTI2NjI4NUE=,2018,2000,-1,-1,200000,-1,20-Dec,-0.01,5000,0.03,0.09,1,0,2,49,50,51,"E-Commerce,Education,EdTech,E-Learning",Internet & Direct Marketing Retail
+299,1546,RjExMDI5MzRL,2014,50000,-1,-1,3000000,-1,20-Dec,0.66,-1000000,-0.06,-0.48,3,0,1,100,100,100,"Marketplace,Customer Service,Online Portals,Home Services,Professional Services,Freight Services",Internet & Direct Marketing Retail
+300,1547,MTI1Mjc3M0Q=,2017,1000,-1,-1,10000,-1,20-Sep,-0.01,-30000,-0.01,-0.01,1,0,2,20,50,80,"Construction,Consumer Goods",Internet & Direct Marketing Retail
+301,1548,MTI0NDY5N1c=,2017,800000,-1,-1,8000,-1,21-Aug,-0.01,-400000,-0.1,-0.1,1,0,4,0,6.165,87.67,"E-Commerce,Delivery",Internet & Direct Marketing Retail
+302,1549,MTM4NTU0OEQ=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.14,-0.01,2,0,1,100,100,100,"Marketplace,Furniture",Internet & Direct Marketing Retail
+303,1550,MTE3MjQyMlY=,2016,10000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,Furniture",Internet & Direct Marketing Retail
+304,1551,MTE1ODEyOEs=,2015,600000,2000000,500000,100000,20-Oct,21-Sep,0.99,-200000,0.14,0.25,1,1,5,2.66,5.78,61.15,"Marketplace,Education,Fitness,Lifestyle,Sports,Tutoring",Internet & Direct Marketing Retail
+305,1552,MTM4NTQ2MVQ=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,3,0,3,10,27,63,"Marketplace,Food & Beverage (F&B)",Internet & Direct Marketing Retail
+306,1553,MTIwOTY5Mks=,2016,300000,2000000,200000,20000,18-Dec,20-Mar,-0.54,-100000,-0.01,-0.01,1,1,5,0.71,11.01,73.8,"Marketplace,Travel,Tourism,Apps,Tours",Internet & Direct Marketing Retail
+307,1554,MTE1MTk5N1Q=,2015,10000,-1,-1,200000,-1,21-Dec,1.5,50000,-0.11,0.04,2,0,3,0.02,49.98,50,"Information Technology,Consumer Goods,Apps",Internet & Direct Marketing Retail
+308,1555,MTI0NTkxMkg=,2017,10000,-1,-1,100000,-1,21-Dec,0.28,80000,-0.01,-0.01,1,0,1,100,100,100,"Business Intelligence,Social Media,Consumer Research",Internet & Direct Marketing Retail
+309,1556,MTA2MTA4Nlg=,2013,4000000,6000000,100000,3000,21-Nov,20-Dec,0.24,-2000000,0.56,0.88,1,1,3,2.04,22.04,75.92,"Business Intelligence,Consumer Research",Internet & Direct Marketing Retail
+310,1557,MTE5MDA5OUg=,2016,9000000,30000000,5000000,5000000,22-Mar,21-Dec,2.04,600000,0.18,0.29,1,3,12,0.69,1.915,60.04,"E-Commerce,Information Technology",Internet & Direct Marketing Retail
+311,1558,MTE1MTE1NFA=,2015,20000,-1,-1,300,-1,19-Jun,-0.01,-2000,-0.01,-0.01,3,0,2,49.96,50,50.04,"Marketplace,Recruitment",Internet & Direct Marketing Retail
+312,1559,MTM2NjkwNUE=,2020,20000,-1,-1,30000,-1,21-Dec,4.05,50000,-0.01,-0.01,2,0,2,50,50,50,"Marketplace,Recruitment",Internet & Direct Marketing Retail
+313,1560,MTQ0NTA1OFQ=,2021,1,-1,-1,-1,-1,-1,-0.01,-1,0.25,-0.17,5,0,5,7.9,16.6,49.8,"Marketplace,Recruitment",Internet & Direct Marketing Retail
+314,1561,MTAyNTgwMkg=,2012,40000,-1,-1,300000,-1,17-Dec,-0.01,-30000,-0.01,-0.01,1,0,2,50,50,50,"Marketplace,Recruitment,Search Engine",Internet & Direct Marketing Retail
+315,1562,MTI4NDc3N1c=,2018,400000,3000000,200000,10000,21-Mar,21-Dec,5.11,-100000,-0.01,-0.01,2,1,11,0.45,1.62,36.42,"Marketplace,Education",Internet & Direct Marketing Retail
+316,1563,MTIwOTQ3MkE=,2016,20000,-1,-1,6000,-1,19-Mar,-0.01,-2000,-0.01,-0.01,1,0,2,45,50,55,"Marketplace,Rental,Travel Accommodations,Accommodation",Internet & Direct Marketing Retail
+317,1564,MTEwNjQzM1c=,2014,3000,-1,-1,300000,-1,19-Dec,-0.01,-40000,-0.01,-0.01,2,0,4,20,26.665,26.67,"E-Commerce,Medicine",Internet & Direct Marketing Retail
+318,1565,MTEyNDQwOUg=,2014,900000,700000,600000,300000,16-May,19-Dec,2.59,-300000,-0.01,-0.01,3,1,5,2.33,3.5,88.34,"Mobile Apps,Audio,Consumer",Internet & Direct Marketing Retail
+319,1566,MTIxOTU0NkQ=,2017,1,-1,-1,40000,-1,20-Jun,-0.01,-10000,-0.01,-0.43,1,0,2,50,50,50,"Marketplace,Fitness,Training",Internet & Direct Marketing Retail
+320,1567,MTMzODU5NFc=,2019,400000,10000000,200000,8000,22-Oct,21-May,-0.01,-50000,0.17,-0.01,1,1,5,1,9.69,58.11,"E-Commerce,Medical",Internet & Direct Marketing Retail
+321,1568,MTEzNDY4N1Y=,2015,6000000,20000000,6000000,400000,16-Dec,19-Dec,-0.01,-200000,0.1,0.15,2,1,15,0.66,3.3,28.86,Marketplace,Internet & Direct Marketing Retail
+322,1569,MTE2NzU5OVg=,2015,1000000,-1,-1,20000,-1,18-Dec,-0.59,-300000,-0.01,-0.01,1,0,4,0,0,100,"Marketplace,Lending,Crowdfunding",Internet & Direct Marketing Retail
+323,1570,MTI4NjkyMFc=,2018,50000,-1,-1,90000,-1,21-Dec,0.09,-30000,-0.01,-0.01,4,0,4,25,25,25,"Marketplace,E-Commerce,Farming,Agriculture,Organic",Internet & Direct Marketing Retail
+324,1571,MTE2MTM0OVc=,2015,1,-1,-1,200000,-1,19-Sep,-0.01,-30000,-0.01,-0.01,1,0,2,50,50,50,"Marketplace,Education",Internet & Direct Marketing Retail
+325,1572,MTM0ODE4NVc=,2019,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,2,49,50,51,Marketplace,Internet & Direct Marketing Retail
+326,1573,MTI2OTAwN0Q=,2018,3000,-1,-1,2000000,-1,20-May,-0.01,-3000,-0.01,-0.01,-1,0,2,0,50,100,"Marketplace,AgriTech,B2B",Internet & Direct Marketing Retail
+327,1574,MTI5NzUwOEg=,2018,50000,-1,-1,-1,-1,19-Dec,-0.01,-200000,-0.01,-0.01,1,0,2,15,50,85,"Marketplace,Interior Design,Home Renovation",Internet & Direct Marketing Retail
+328,1575,MTM0NTQwNkQ=,2019,20000,-1,-1,-1,-1,20-Dec,-0.01,-3000,-0.01,-0.2,2,0,2,30,50,70,"Mobile Apps,Pet,Medical,Consumer Software",Internet & Direct Marketing Retail
+329,1576,MTA4NjkwMVU=,2014,8000,-1,-1,600000,-1,19-Jun,-0.01,70000,-0.01,-0.01,1,0,2,3.85,50,96.15,"E-Commerce,Fashion,Shopping,Textiles",Internet & Direct Marketing Retail
+330,1577,MTIxNDEwNUQ=,2016,300000,1000000,300000,50000,18-Jul,18-May,-0.01,-100000,-0.01,-0.01,2,1,10,0.75,12.27,19.37,"E-Commerce,Logistics,Supply Chain",Internet & Direct Marketing Retail
+331,1578,OTgwNjE3QQ==,2012,3000000,10000000,1000000,3000000,19-Jan,21-Mar,0.16,200000,-0.11,-0.02,2,3,13,0.18,4.95,23.6,"E-Commerce,Parenting",Internet & Direct Marketing Retail
+332,1579,MTMxNzYzNVU=,2019,300000,-1,-1,10000000,-1,20-Dec,-0.01,700000,-0.01,-0.01,1,0,2,16,50,84,"E-Commerce,Grocery,Fast-moving Consumer Goods (FMCG)",Internet & Direct Marketing Retail
+333,1580,MTMzMDQ3M00=,2019,1,-1,-1,80000,-1,21-Dec,-0.01,30000,-0.01,-0.01,1,0,9,8,8,22,"E-Commerce,Retail,Women",Internet & Direct Marketing Retail
+334,1581,RjEwMDY2NTNU,2012,300000,-1,-1,20000000,-1,21-Dec,2.74,-300000,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Mobile",Internet & Direct Marketing Retail
+335,1582,MTI5NTg0M1g=,2018,60000,-1,-1,300000,-1,21-Dec,5,100000,0.1,0.38,2,0,6,12.96,14.985,25.11,"Marketplace,E-Commerce",Internet & Direct Marketing Retail
+336,1583,MTI2MTkzOVY=,2017,100000,-1,-1,100000,-1,20-May,0.18,-20000,0.25,0.43,1,0,4,20,20,40,E-Commerce,Internet & Direct Marketing Retail
+337,1584,MTM1MzQ5MEQ=,2019,1,-1,-1,1000000,-1,21-Dec,-0.01,500000,0.11,0.43,1,0,2,20,50,80,"E-Commerce,Beauty",Internet & Direct Marketing Retail
+338,1585,MTMxNzg4OUs=,2019,1,-1,-1,-1,-1,19-Dec,-0.01,-1000,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Wedding",Internet & Direct Marketing Retail
+339,1586,MTMwMzI4M1Y=,2018,20000,-1,-1,2000,-1,19-Dec,-0.01,-100,-0.01,-0.01,1,0,2,50,50,50,"E-Commerce,Analytics",Internet & Direct Marketing Retail
+340,1587,MTAxODg2NlQ=,2012,1,-1,-1,400000,-1,21-Mar,1.12,-3000,-0.01,-0.01,1,0,2,33.33,50,66.67,"Food & Beverage (F&B),E-Commerce,Personal Health",Internet & Direct Marketing Retail
+341,1588,MTExNTc1NEE=,2014,1,-1,-1,100000,-1,19-Nov,-0.01,50,-0.01,-0.01,1,0,2,1,50,99,"E-Commerce,Books",Internet & Direct Marketing Retail
+342,1589,MTAxNzE1N1Y=,2012,10000000,90000000,10000000,10000000,23-Feb,21-Dec,0.87,400000,0.08,0.29,2,3,31,0.01,1.32,14.65,"E-Commerce,Marketing,Saas,Advertising",Internet & Direct Marketing Retail
+343,1590,MjAxNjE2ODExQw==,2016,2000000,20000000,2000000,10000000,19-Sep,19-Sep,-0.01,-100000,-0.14,-0.33,3,1,8,0.98,6.615,42.75,"Marketplace,E-Commerce,Unbanked",Internet & Direct Marketing Retail
+344,1591,RjEyODc0NTdE,2018,200000,-1,-1,900000,-1,21-Jun,-0.01,-300000,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,Food & Beverage (F&B),Farming,B2B,Online Portals",Internet & Direct Marketing Retail
+345,1592,Nzk5ODMyVA==,2007,2000000,20000000,900000,4000000,22-Aug,21-Dec,0.11,100000,0.11,0.22,2,3,6,4.58,9.16,38,"Software,Retail,Point of Sale (POS)",Internet & Direct Marketing Retail
+346,1593,MTM3MDEzMlA=,2020,1,-1,-1,20000,-1,21-Dec,-0.01,-10000,-0.01,-0.01,1,0,2,50,50,50,"E-Commerce,Wellness,Retail,Women",Internet & Direct Marketing Retail
+347,1594,MTMzOTQ2OFc=,2019,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,3,33,33,34,"Grocery,Food Delivery,Online Portals",Internet & Direct Marketing Retail
+348,1595,MTE0NDA2MU0=,2015,50000,-1,-1,40000,-1,20-Apr,-0.01,-60000,-0.01,-0.01,1,0,7,0,8.33,39.17,"E-Commerce,Logistics",Internet & Direct Marketing Retail
+349,1596,RjEzNDk2MDRB,2019,100000,-1,-1,2000000,-1,21-Mar,-0.01,100000,-0.04,-0.17,-1,0,1,100,100,100,E-Commerce,Internet & Direct Marketing Retail
+350,1597,MTM3MDY1M1Q=,2020,20000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,3,20,35,45,"Marketplace,E-Commerce",Internet & Direct Marketing Retail
+351,1598,RjExNTQzOTFE,2015,4000000,-1,-1,4000000,-1,21-Jun,1.91,500000,-0.03,-0.18,1,0,1,100,100,100,"E-Commerce,Gift,Flowers",Internet & Direct Marketing Retail
+352,1599,MjQ4OTQxRA==,1992,200000,-1,-1,3000000,-1,19-Dec,-0.01,-60000,-0.01,-0.01,-1,0,2,27,50,73,"Marketplace,E-Commerce,Retail,Shopping",Internet & Direct Marketing Retail
+353,1600,MTQ2MTQ5NUE=,2022,-1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,-1,-1,-1,-1,"E-Commerce,Fashion",Internet & Direct Marketing Retail
+354,1601,MTQyNDQ2Nkg=,2021,-1,-1,-1,100000,-1,21-Dec,-0.01,3000,-0.01,-0.33,2,0,2,12.5,50,87.5,"E-Commerce,Delivery Service",Internet & Direct Marketing Retail
+355,1602,MTEzODA5M0Q=,2015,30000,-1,-1,400000,-1,22-Jun,0.56,-7000,1,1,-1,0,1,100,100,100,"Marketplace,E-Commerce",Internet & Direct Marketing Retail
+356,1603,OTEyNzgzVg==,2010,30000,-1,-1,40000,-1,15-Dec,-0.01,-2000,-0.01,-0.01,-1,0,3,30,34,36,"Marketplace,E-Commerce,Retail",Internet & Direct Marketing Retail
+357,1604,MTIyODI5M1Y=,2017,40000,-1,-1,600000,-1,21-Jun,0.26,40000,-0.01,-0.01,1,0,2,30,50,70,"E-Commerce,Retail,Shopping",Internet & Direct Marketing Retail
+358,1605,MTM0MzE4OUg=,2019,2000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,2,50,50,50,"E-Commerce,Delivery,Gift",Internet & Direct Marketing Retail
+359,1606,MTExMzk1NEQ=,2014,20000000,40000000,7000000,2000000,20-Aug,21-Dec,-0.01,-5000000,-0.22,-0.31,2,3,23,0.05,2.21,30.96,"E-Commerce,Shopping",Internet & Direct Marketing Retail
+360,1607,MTA4MzU2MFc=,2014,60000,-1,-1,1000000,-1,18-Dec,-0.01,700000,-0.13,-0.19,1,0,3,5,30,65,"Marketplace,E-Commerce,Health Care",Internet & Direct Marketing Retail
+361,1608,MTQwMTA1MlY=,2021,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"Furniture,E-Commerce Platforms",Internet & Direct Marketing Retail
+362,1609,MTMzMjMxNVY=,2019,9000000,50000000,3000000,700000,21-Oct,21-Dec,3.95,-1000000,-0.08,-0.01,1,1,9,0.41,2.6,67.42,"E-Commerce,Subscription Service",Internet & Direct Marketing Retail
+363,1610,MTMxOTQ5M1g=,2019,1,-1,-1,60000,-1,21-May,0.24,1000,1,1,1,0,3,33,33,34,"E-Commerce,Jewellery",Internet & Direct Marketing Retail
+364,1611,MTQyODIxNVc=,2021,-1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,-1,-1,-1,-1,"E-Commerce,Fashion",Internet & Direct Marketing Retail
+365,1612,MTM3NjA4MVQ=,2020,80000,-1,-1,300000,-1,21-Dec,-0.01,-40000,0.25,0.5,1,0,4,15,27.5,30,"E-Commerce,Internet,Digital Marketing",Internet & Direct Marketing Retail
+366,1613,OTUwMjg0Sw==,2011,100000,-1,-1,100000,-1,19-Jun,-0.01,-20000,-0.01,-0.01,2,0,2,15,50,85,"E-Commerce,Retail,Women,Fashion",Internet & Direct Marketing Retail
+367,1614,RjExNjYzNjhU,2015,90000,-1,-1,6000000,-1,21-Sep,-0.67,-200000,-0.01,-0.01,2,0,1,100,100,100,"Marketplace,E-Commerce,Financial Services",Internet & Direct Marketing Retail
+368,1615,Rjk1Mzc1NUQ=,2011,200000,-1,-1,60000000,-1,21-Dec,0.79,-1000000,-0.01,-0.01,-1,0,1,100,100,100,"E-Commerce,Delivery,Transportation,Food Delivery",Internet & Direct Marketing Retail
+369,1616,MTM0ODc4N1Y=,2019,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Lifestyle,Retail,Online Portals",Internet & Direct Marketing Retail
+370,1617,MTMyNTk5N1A=,2012,20000000,60000000,10000000,30000000,19-Jul,20-Dec,1.39,-4000000,-0.25,-0.27,2,1,14,0.13,2.69,36.71,"E-Commerce,Delivery Service,Internet,Shipping",Internet & Direct Marketing Retail
+371,1618,MTE3MTQ2OUg=,2016,300000,-1,-1,1000,-1,17-Jan,-0.01,-200000,-0.01,-0.01,1,0,-1,-1,-1,-1,"Marketplace,E-Commerce,Gift,Information & Communications Technology (ICT)",Internet & Direct Marketing Retail
+372,1619,NDczNjA1QQ==,1998,5000,-1,-1,-1,-1,15-Dec,-0.01,-400,-0.01,-0.01,1,0,2,50,50,50,"E-Commerce,Retail,Fashion",Internet & Direct Marketing Retail
+373,1620,MTQwNjMyN1c=,2021,1,-1,-1,50000,-1,21-Dec,-0.01,10000,-0.01,-0.01,-1,0,-1,-1,-1,-1,"E-Commerce,Skincare,Cosmetics",Internet & Direct Marketing Retail
+374,1621,MTQzMDU3OVU=,2021,-1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,-1,-1,-1,-1,"E-Commerce,Fashion",Internet & Direct Marketing Retail
+375,1622,MTAyNjk4MFA=,2012,80000,-1,-1,1000000,-1,21-Jun,0.9,100000,0.06,-0.06,2,0,2,50,50,50,"E-Commerce,Books",Internet & Direct Marketing Retail
+376,1623,MTM4MzA5Mk0=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+377,1624,NzAxNTAxVw==,2005,80000,-1,-1,2000000,-1,21-Jun,0.05,60000,-0.01,-0.01,1,0,2,48.12,50,51.88,"E-Commerce,Fashion,Textiles",Internet & Direct Marketing Retail
+378,1625,MTQ5MzcyMlA=,2022,100000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,-1,-1,-1,-1,"Transportation,Ride Sharing",Internet & Direct Marketing Retail
+379,1626,MTAyNjIwOFg=,2012,90000,-1,-1,200000,-1,17-Dec,-0.01,-50000,-0.01,-0.01,2,0,3,20,20,60,"E-Commerce,Retail,Shopping",Internet & Direct Marketing Retail
+380,1627,MTA4NDExNkQ=,2014,20000,-1,-1,5000,-1,20-Mar,-0.01,-2000,-0.01,-0.01,1,0,2,2.5,50,97.5,"E-Commerce,Health",Internet & Direct Marketing Retail
+381,1628,NjAyNDUxWA==,2003,200000,-1,-1,700000,-1,20-Dec,-0.06,-200000,-0.08,-0.21,3,0,1,100,100,100,"E-Commerce,Retail,Women,Fashion",Internet & Direct Marketing Retail
+382,1629,MTI4NjU1M0E=,2018,10000000,300000000,10000000,30000,21-Oct,20-Dec,20.42,-5000000,-0.18,-0.65,2,2,8,0.32,10.05,32.29,"E-Commerce,Retail",Internet & Direct Marketing Retail
+383,1630,MjAyMDE0NDA4Vw==,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,2,50,50,50,Grocery,Internet & Direct Marketing Retail
+384,1631,ODc1ODA2TQ==,2009,3000000,100000000,400000,30000,22-Jun,21-Dec,-0.98,-500000,0.06,0.28,1,2,8,0.08,0.765,94.99,"E-Commerce,Retail",Internet & Direct Marketing Retail
+385,1632,RjExMDE5NTRN,2014,40000000,100000000,20000000,700000000,19-Dec,21-Dec,0.9,-60000000,0.03,0.42,2,5,1,100,100,100,"E-Commerce,Automotive,Shopping",Internet & Direct Marketing Retail
+386,1633,Nzk4MTYySA==,2007,100000,-1,-1,8000000,-1,21-Dec,0.59,-1,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,E-Commerce",Internet & Direct Marketing Retail
+387,1634,NDg5NTY2VA==,1999,3000000,-1,-1,200000,-1,13-Dec,-0.01,-700000,-0.01,-0.01,1,0,2,26.67,50,73.33,"E-Commerce,Apps",Internet & Direct Marketing Retail
+388,1635,MjAyMDMyMjM4Sw==,2017,40000000,100000000,30000000,200000,21-Dec,21-Mar,-0.01,200000,-0.03,-0.15,1,2,13,0.1,7.63,24.9,E-Commerce,Internet & Direct Marketing Retail
+389,1636,MTE4NzIwM00=,2016,40000,-1,-1,-1,-1,20-Nov,-0.01,-20000,-0.01,-0.01,1,0,2,30,50,70,"Food & Beverage (F&B),Mobile Apps",Internet & Direct Marketing Retail
+390,1637,NTgzMjExSw==,2002,40000000,100000000,10000000,20000000,19-Mar,20-Dec,-0.16,-3000000,-0.14,-0.01,2,4,10,1.1,7.07,25.82,"E-Commerce,Fashion",Internet & Direct Marketing Retail
+391,1638,OTE1ODg3Vw==,2010,100000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,3,27,33,40,"E-Commerce,Logistics",Internet & Direct Marketing Retail
+392,1639,MTI5MzQ3MUE=,2018,1,-1,-1,3000,-1,19-Sep,-0.01,-10000,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,E-Commerce,Real Estate,Internet",Internet & Direct Marketing Retail
+393,1640,MTE2MTgwMFA=,2015,1,-1,-1,100000,-1,16-Dec,-0.01,-100000,-0.01,-0.01,1,0,2,49,50,51,"Marketplace,B2B,Online Portals,Catering",Internet & Direct Marketing Retail
+394,1641,MTM2ODQwNVc=,2020,5000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,3,4,19.2,76.8,"E-Commerce,Retail,Internet",Internet & Direct Marketing Retail
+395,1642,MTE4MjIyMFc=,2016,200000,-1,-1,-1,-1,-1,-0.01,-1,0.11,0.11,1,0,2,35.06,50,64.94,"Marketplace,E-Commerce,Retail,Fashion",Internet & Direct Marketing Retail
+396,1643,MTEzMzkwMUE=,2015,10000,-1,-1,10000,-1,15-Dec,-0.01,-4000,-0.01,-0.01,3,0,3,1.82,7.27,90.91,"E-Commerce,Retail,Shipping",Internet & Direct Marketing Retail
+397,1644,MTE1MDAzMFc=,2015,10000,-1,-1,80000,-1,21-Jun,-0.03,-30000,-0.01,-0.01,2,0,2,0.02,50,99.98,"E-Commerce,E-Books,Books",Internet & Direct Marketing Retail
+398,1645,MTM3MjI2NUQ=,2020,1000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,2,1,50,99,"E-Commerce,Automobile,Automotive,E-Commerce Platforms",Internet & Direct Marketing Retail
+399,1646,MTAzNzE3NFQ=,2013,4000000,10000000,1000000,400000,22-Sep,21-Dec,-0.4,-300000,-0.25,-0.25,2,2,15,0.02,1.56,67.45,"E-Commerce,Retail,Consumer Goods",Internet & Direct Marketing Retail
+400,1647,MTI5Nzg3M1Y=,2018,10000,-1,-1,80000,-1,20-Oct,-0.01,3000,-0.01,-0.01,1,0,1,100,100,100,"Marketplace,E-Commerce,Real Estate,Retail,Internet,Consumer Electronics",Internet & Direct Marketing Retail
+401,1648,MTM0MDMxNlU=,2019,100000,-1,-1,20000,-1,20-Dec,-0.01,-200000,-0.01,-0.01,2,0,1,100,100,100,"Grocery,Delivery Service",Internet & Direct Marketing Retail
+402,1649,MTI0MTE1OEE=,2017,10000,-1,-1,4000000,-1,21-Jul,2.8,50000,-0.01,-0.01,1,0,2,5,50,95,"E-Commerce,Retail,Internet,Shopping",Internet & Direct Marketing Retail
+403,1650,MTE5ODcxM1U=,2016,20000,-1,-1,500000,-1,20-Dec,-0.38,-50000,0.33,0.45,2,0,2,40,50,60,"Ride Sharing,Rental,Car Rental",Internet & Direct Marketing Retail
+404,1651,RjEzMDUyMTJV,2018,200000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,1,100,100,100,"Ride Sharing,Rental,E-Scooter",Internet & Direct Marketing Retail
+405,1652,MTE4MjUyM1Q=,2016,4000000,10000000,2000000,3000000,21-Apr,19-Dec,0.82,-600000,-0.1,-0.25,4,3,13,0.09,4.36,36.87,E-Commerce,Internet & Direct Marketing Retail
+406,1653,MTIyMzUwNU0=,2017,500000,10000000,100000,70000,18-Jan,20-Apr,3.04,-100000,-0.01,-0.01,4,2,30,0.09,1.385,22.25,"Marketplace,E-Commerce,Fashion",Internet & Direct Marketing Retail
+407,1654,OTI0NjU5QQ==,2010,400000,-1,-1,1000000,-1,19-Dec,-0.01,100000,-0.01,-0.01,1,0,2,30,50,70,"Food Delivery,Online Portals",Internet & Direct Marketing Retail
+408,1655,MTE0ODI2MFQ=,2015,200000,-1,-1,1000000,-1,22-Jul,0.07,-40000,-0.01,-0.01,2,0,2,50,50,50,"E-Commerce,Wine & Spirits",Internet & Direct Marketing Retail
+409,1656,MTM4MTQ0N1U=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,1,100,100,100,"Marketplace,E-Commerce",Internet & Direct Marketing Retail
+410,1657,RjExOTA2MjdV,2016,800000,-1,-1,40000,-1,19-Dec,-0.23,-200000,0.02,0.02,3,0,1,100,100,100,"Marketplace,E-Commerce,Saas,Retail,B2B,Wholesale,Procurement",Internet & Direct Marketing Retail
+411,1658,MTIxNjU3OUQ=,2017,20000,-1,-1,100000,-1,20-Dec,0.24,-5000,-0.01,-0.29,1,0,4,2.5,14.63,68.25,"Food & Beverage (F&B),E-Commerce,Delivery,Internet,Nutrition",Internet & Direct Marketing Retail
+412,1659,MTA1MTI1OFY=,2013,1,-1,-1,-1,-1,15-Dec,-0.01,-8000,-0.01,-0.01,1,0,3,11.95,25,63.05,"E-Commerce,Internet,B2B",Internet & Direct Marketing Retail
+413,1660,OTc0OTg4VQ==,2012,300000,-1,-1,200000,-1,21-Dec,2.95,-9000,-0.29,-0.01,-1,0,2,40,50,60,"Marketplace,E-Commerce,Grocery,Retail,Health,Nutrition",Internet & Direct Marketing Retail
+414,1661,MTE4NzEzNVA=,2016,2000000,9000000,400000,10000000,21-Mar,21-Dec,0.57,-200000,-0.16,-0.22,2,3,17,0.27,1.44,42.12,"E-Commerce,Delivery,Flowers",Internet & Direct Marketing Retail
+415,1662,OTg5Mzk2QQ==,2012,2000000,20000000,500000,10000000,20-Nov,21-Dec,0.21,-40000,-0.01,-0.01,1,4,8,2.79,5.58,32.09,"E-Commerce,Consumer Goods,Children",Internet & Direct Marketing Retail
+416,1663,MTIwOTk3Nkg=,2016,5000000,9000000,600000,20000000,21-May,21-Dec,0.74,600000,0.13,0.64,2,1,1,100,100,100,"E-Commerce,Grocery,Delivery",Internet & Direct Marketing Retail
+417,1664,MTM3NDYzN1Q=,2020,10000,-1,-1,-1,-1,-1,-0.01,-1,-0.25,-0.01,3,0,3,33.33,33.33,33.33,"E-Commerce,Retail,Shopping",Internet & Direct Marketing Retail
+418,1665,MTExMzc5Nkg=,2014,70000,-1,-1,300000,-1,18-Dec,-0.01,-100000,-0.01,-0.01,2,0,5,17.5,17.5,30,"E-Commerce,Internet of Things (IoT),Retail",Internet & Direct Marketing Retail
+419,1666,MjAxMzE5NTc0RQ==,2013,10000000,20000000,6000000,3000000,18-Oct,19-Dec,-0.48,-4000000,-0.07,-0.16,1,2,11,0.39,5.88,27.14,"E-Commerce,Information Technology,Travel",Internet & Direct Marketing Retail
+420,1667,OTU1NTQ2WA==,2011,30000,-1,-1,20000,-1,19-Dec,-0.01,-6000,-0.01,-0.01,-1,0,4,8,28,36,"E-Commerce,Shopping",Internet & Direct Marketing Retail
+421,1668,MTEyMjgwOVc=,2014,30000,-1,-1,200000,-1,20-Dec,0.16,100000,0.17,-0.01,1,0,4,5,5,85,"E-Commerce,Sustainability,Retail,Fashion,Gift",Internet & Direct Marketing Retail
+422,1669,MTA0ODUyMFc=,2013,3000000,9000000,2000000,3000000,17-Mar,21-Dec,-0.61,-300000,-0.01,-0.01,1,1,3,5,5,90,"E-Commerce,Cosmetics",Internet & Direct Marketing Retail
+423,1670,MTIwNzE1M1Y=,2016,200000,-1,-1,200000,-1,20-Dec,0.24,-100000,0.13,-0.1,1,0,5,4.45,17.99,40.48,"E-Commerce,Marketing",Internet & Direct Marketing Retail
+424,1671,MTMwMTU4MlY=,2018,40000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,2,30,50,70,"E-Commerce,Grocery",Internet & Direct Marketing Retail
+425,1672,MTA5MTIyNlY=,2014,100000,-1,-1,-1,-1,20-Apr,-0.01,-20000,-0.01,-0.01,2,0,2,40,50,60,"E-Commerce,Retail,Women",Internet & Direct Marketing Retail
+426,1673,MTE2MDM5NFc=,2015,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,-1,0,2,40,50,60,"E-Commerce,Grocery,Retail",Internet & Direct Marketing Retail
+427,1674,MTI5Mzc1MlQ=,2018,30000,-1,-1,20000,-1,20-Jan,-0.01,-30000,0.2,0.33,1,0,5,0.98,4.89,88.26,"E-Commerce,Wellness,Consumer Goods",Internet & Direct Marketing Retail
+428,1675,MTEyNjAzMFA=,2015,50000,-1,-1,200000,-1,21-Dec,-0.21,3000,0.29,0.8,3,0,2,5,50,95,"E-Commerce,Shoes,Leather",Internet & Direct Marketing Retail
+429,1676,MTM5MzI4NVg=,2020,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,2,0,3,20,25,55,"E-Commerce,Organic",Internet & Direct Marketing Retail
+430,1677,MTIxOTcxNE0=,2017,200000,-1,-1,70000,-1,18-Jul,-0.01,-60000,-0.01,-0.01,2,0,4,5,25,45,"E-Commerce,Mobile Apps,Automotive",Internet & Direct Marketing Retail
+431,1678,MjUxMTRY,1975,-1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,-1,-1,-1,-1,"Marketplace,E-Commerce,Retail,Fashion",Internet & Direct Marketing Retail
+432,1679,MTM4MTU3N1Y=,2020,100000,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,3,0,2,50,50,50,"Fintech,Marketing,Digital Marketing",Internet & Direct Marketing Retail
+433,1680,MTI3MjUyMVU=,2018,400000,-1,-1,80000,-1,19-Jun,-0.01,-20000,-0.46,-0.59,3,0,1,100,100,100,"Marketplace,Food & Beverage (F&B),E-Commerce",Internet & Direct Marketing Retail
+434,1681,OTI4Nzc0RA==,2011,1,-1,-1,-1,-1,20-Dec,-0.01,-3000,-0.01,-0.01,1,0,3,33.33,33.33,33.33,"E-Commerce,Grocery,Cooking",Internet & Direct Marketing Retail
+435,1682,MTIzOTg0NFY=,2017,1,-1,-1,-1,-1,-1,-0.01,-1,-0.01,-0.01,1,0,1,100,100,100,"E-Commerce,Logistics,Internet,Shipping",Internet & Direct Marketing Retail
+436,1683,MTE2Nzk5MFQ=,2015,400000,-1,-1,2000000,-1,21-Nov,80.02,-800000,0.64,1.57,1,0,4,5,27.5,40,"E-Commerce,Pharmaceutical,Retail",Internet & Direct Marketing Retail
+437,1684,MTE3NjQ2NFg=,2016,10000000,-1,-1,60000000,-1,21-Dec,-0.01,700000,-0.02,-0.08,-1,0,1,100,100,100,"Media & Entertainment,Shopping",Internet & Direct Marketing Retail
+438,1685,MTI2NTc2MVc=,2018,30000,-1,-1,-1,-1,20-Jun,-0.01,-300,-0.01,-0.01,2,0,1,100,100,100,"Marketplace,E-Commerce,Dental",Internet & Direct Marketing Retail
+439,1686,MTMwODQyMFU=,2018,9000,-1,-1,40000,-1,20-Dec,28.63,3000,-0.01,-0.01,1,0,3,20,40,40,"E-Commerce,Retail,Shopping",Internet & Direct Marketing Retail
+,,,,,,,,,,,,,,,,,,,,,
+mean,,,,,,,5967962.548,,,1.44925,,,,,,,32.67095455,42.76854545,64.01181818,,
+max,,,,,,,700000000,,,151.57,,,,,,,100,100,100,,
+min,,,,,,,-1,,,-1,,,,,,,-1,-1,-1,,
+step,,,,,,,233333333.7,,,50.85666667,,,,,,,33.66666667,33.66666667,33.66666667,,
+T3 lower,,,,,,,-1,,,-1,,,,,,,-1,-1,-1,,
+t3 upper t2 lower,,,,,,,233333332.7,,,49.85666667,,,,,,,32.66666667,32.66666667,32.66666667,,
+t2 upper t1 lower,,,,,,,466666666.3,,,100.7133333,,,,,,,66.33333333,66.33333333,66.33333333,,
+t1 upper,,,,,,,700000000,,,151.57,,,,,,,100,100,100,,

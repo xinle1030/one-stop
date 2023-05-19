@@ -1,0 +1,17 @@
+/backend/env
+
+/frontend/node_modules
+frontend/__pycache__
+frontend/migrations/__pycache__
+frontend/.eslintcache
+frontend/package-lock.json
+
+backend/.env
+backend/env
+
+.history
+
+*.pyc
+env
+
+.env
