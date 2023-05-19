@@ -24,14 +24,3 @@ npm start
 ```
 **Note:** 
 Google Chrome is recommended to deploy the application
-
-## Module Details:
-Acts as a gateway to backend functionality with an easy to understand and use UI.
-
-The application is divided into 3 sections: Recipe OCR, website scraper and medicine database
-
-Recipe OCR: is a front-end gateway to module 1's Recipe OCR implementations and services.
-
-Website Scraper: Allows users to scrape medicine information with a medicine.org.uk medicine URL or a HTML local file that the user has to upload for scraping. In addition, users are able to search for interactions between two medicines via the interactions checker
-
-Medicine Database: Includes functionality to search medicine information regarding a disease name and a matched interaction table that displays all related medicine according to the input Medicine ID.
